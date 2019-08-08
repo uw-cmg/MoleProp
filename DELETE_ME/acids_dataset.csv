@@ -1,0 +1,240 @@
+compound,flashpoint,pure substance,smiles,source,is_silicon,is_metallic,is_tin,is_acid
+hexanedioic acid,464.15,1,C(CCC(=O)O)CC(=O)O,pubchem,0,0,0,1
+2-aminobenzoic acid,444.15,1,C1=CC=C(C(=C1)C(=O)O)N,pubchem,0,0,0,1
+benzoic acid,394.15,1,C1=CC=C(C=C1)C(=O)O,pubchem,0,0,0,1
+formic acid,342.15,1,C(=O)O,pubchem,0,0,0,1
+2-chloroacetic acid,423.15,1,C(C(=O)O)Cl,pubchem,0,0,0,1
+"2-hydroxypropane-1,2,3-tricarboxylic acid",373.15,1,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,pubchem,0,0,0,1
+2-hydroxybenzoic acid,430.15,1,C1=CC=C(C(=C1)C(=O)O)O,pubchem,0,0,0,1
+"2,3-dihydroxybutanedioic acid",483.15,1,C(C(C(=O)O)O)(C(=O)O)O,pubchem,0,0,0,1
+pyridine-3-carboxylic acid,466.15,1,C1=CC(=CN=C1)C(=O)O,pubchem,0,0,0,1
+2-phenylacetic acid,405.15,1,C1=CC=C(C=C1)CC(=O)O,pubchem,0,0,0,1
+phthalic acid,441.15,1,C1=CC=C(C(=C1)C(=O)O)C(=O)O,pubchem,0,0,0,1
+butanedioic acid,433.15,1,C(CC(=O)O)C(=O)O,pubchem,0,0,0,1
+2-sulfanylacetic acid,386.15,1,C(C(=O)O)S,pubchem,0,0,0,1
+2-acetyloxybenzoic acid,523.15,1,CC(=O)OC1=CC=CC=C1C(=O)O,pubchem,0,0,0,1
+nonanedioic acid,483.15,1,C(CCCC(=O)O)CCCC(=O)O,pubchem,0,0,0,1
+decanoic acid,386.15,1,CCCCCCCCCC(=O)O,pubchem,0,0,0,1
+2-propylpentanoic acid,384.15,1,CCCC(CCC)C(=O)O,pubchem,0,0,0,1
+dodecanoic acid,386.15,1,CCCCCCCCCCCC(=O)O,pubchem,0,0,0,1
+2-methylprop-2-enoic acid,350.15,1,CC(=C)C(=O)O,pubchem,0,0,0,1
+decanedioic acid,493.15,1,C(CCCCC(=O)O)CCCC(=O)O,pubchem,0,0,0,1
+4-methylbenzenesulfonic acid,457.15,1,CC1=CC=C(C=C1)S(=O)(=O)O,pubchem,0,0,0,1
+4-nitrobenzoic acid,475.15,1,C1=CC(=CC=C1C(=O)O)[N+](=O)[O-],pubchem,0,0,0,1
+2-bromoacetic acid,386.15,1,C(C(=O)O)Br,pubchem,0,0,0,1
+4-chlorobenzoic acid,511.15,1,C1=CC(=CC=C1C(=O)O)Cl,pubchem,0,0,0,1
+benzenesulfonic acid,386.15,1,C1=CC=C(C=C1)S(=O)(=O)O,pubchem,0,0,0,1
+terephthalic acid,533.15,1,C1=CC(=CC=C1C(=O)O)C(=O)O,pubchem,0,0,0,1
+nonanoic acid,406.15,1,CCCCCCCCC(=O)O,pubchem,0,0,0,1
+"2-(2,4-dichlorophenoxy)propanoic acid",477.15,1,CC(C(=O)O)OC1=C(C=C(C=C1)Cl)Cl,pubchem,0,0,0,1
+2-ethylhexanoic acid,400.15,1,CCCCC(CC)C(=O)O,pubchem,0,0,0,1
+"1,3-dioxo-2-benzofuran-5-carboxylic acid",500.15,1,C1=CC2=C(C=C1C(=O)O)C(=O)OC2=O,pubchem,0,0,0,1
+2-hydroxy-4-methylsulfanylbutanoic acid,394.15,1,CSCCC(C(=O)O)O,pubchem,0,0,0,1
+2-chloropropanoic acid,380.15,1,CC(C(=O)O)Cl,pubchem,0,0,0,1
+2-ethylpropanedioic acid,358.15,1,CCC(C(=O)O)C(=O)O,pubchem,0,0,0,1
+"2,2-dibromoacetic acid",386.15,1,C(C(=O)O)(Br)Br,pubchem,0,0,0,1
+2-dodecylbenzenesulfonic acid,422.15,1,CCCCCCCCCCCCC1=CC=CC=C1S(=O)(=O)O,pubchem,0,0,0,1
+"2-methylpropanoic acid;2,2,4-trimethylpentane-1,3-diol",393.15,1,CC(C)C(C(C)(C)CO)O.CC(C)C(=O)O,pubchem,0,0,0,1
+"7,7-dimethyloctanoic acid",367.15,1,CC(C)(C)CCCCCC(=O)O,pubchem,0,0,0,1
+"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctane-1-sulfonic acid",284.15,1,C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F,pubchem,0,0,0,1
+3-[bis(2-carboxyethyl)phosphanyl]propanoic acid,475.15,1,C(CP(CCC(=O)O)CCC(=O)O)C(=O)O,pubchem,0,0,0,1
+(E)-but-2-enedioic acid,546.15,1,C(=CC(=O)O)C(=O)O,pubchem,0,0,0,1
+(Z)-octadec-9-enoic acid,462.15,1,CCCCCCCCC=CCCCCCCCC(=O)O,pubchem,0,0,0,1
+2-bromo-2-chloroacetic acid,383.15,1,C(C(=O)O)(Cl)Br,pubchem,0,0,0,1
+3-[bis(2-carboxyethyl)phosphanyl]propanoic acid;hydrochloride,475.15,1,C(CP(CCC(=O)O)CCC(=O)O)C(=O)O.Cl,pubchem,0,0,0,1
+aceticacid,313.0,1,C(C)(=O)O,carroll11,0,0,0,1
+propionicacid,331.0,1,C(CC)(=O)O,carroll11,0,0,0,1
+butanoicacid,342.0,1,C(CCC)(=O)O,carroll11,0,0,0,1
+pentanoicacid,358.0,1,C(CCCC)(=O)O,carroll11,0,0,0,1
+hexanoicacid,375.0,1,C(CCCCC)(=O)O,carroll11,0,0,0,1
+heptanoicacid,382.0,1,C(CCCCCC)(=O)O,carroll11,0,0,0,1
+2-methylpropanoicacid,332.0,1,CC(C(=O)O)C,carroll11,0,0,0,1
+3-methylbutanoicacid,347.0,1,CC(CC(=O)O)C,carroll11,0,0,0,1
+2-methylbutanoicacid,350.0,1,CC(C(=O)O)CC,carroll11,0,0,0,1
+2-ethylbutanoicacid,360.0,1,C(C)C(C(=O)O)CC,carroll11,0,0,0,1
+"3,3-dimethylbutanoicacid",361.0,1,CC(CC(=O)O)(C)C,carroll11,0,0,0,1
+4-methylpentanoicacid,370.0,1,CC(CCC(=O)O)C,carroll11,0,0,0,1
+2-methylpentanoicacid,364.0,1,CC(C(=O)O)CCC,carroll11,0,0,0,1
+2-methylhexanoicacid,378.0,1,CC(C(=O)O)CCCC,carroll11,0,0,0,1
+3-methylhexanoicacid,376.0,1,CC(CC(=O)O)CCC,carroll11,0,0,0,1
+4-methylhexanoicacid,376.0,1,CC(CCC(=O)O)CC,carroll11,0,0,0,1
+acrylicacid,327.0,1,C(C=C)(=O)O,carroll11,0,0,0,1
+trans-2-pentenoicacid,375.0,1,C(\C=C\CC)(=O)O,carroll11,0,0,0,1
+Adipic acid,464.15,1,O=C(O)CCCCC(=O)O,hazardous materials,0,0,0,1
+Benzoic acid,394.15,1,O=C(O)c1ccccc1,hazardous materials,0,0,0,1
+Hydrocyanic acid,255.15,1,C#N,hazardous materials,0,0,0,1
+Oleic acid,462.15,1,CCCCCCCC/C=C\CCCCCCCC(=O)O,hazardous materials,0,0,0,1
+Picric acid,423.15,1,O=[N+]([O-])c1cc([N+](=O)[O-])c(O)c([N+](=O)[O-])c1,hazardous materials,0,0,0,1
+Salicylic acid,430.15,1,O=C(O)c1ccccc1O,hazardous materials,0,0,0,1
+carbonic acid,442.95,1,O=C(O)O,le15,0,0,0,1
+"Formic acid, ethenyl ester",289.15,1,C=COC=O,le15,0,0,0,1
+"Thiocyanic acid, methyl ester",311.15,1,CSC#N,le15,0,0,0,1
+"Acetic acid, 2-oxo-",377.05,1,O=CC(=O)O,le15,0,0,0,1
+"Acetic acid, hydrazide",375.75,1,CC(=O)NN,le15,0,0,0,1
+"Carbamic acid, methyl ester",378.35,1,COC(N)=O,le15,0,0,0,1
+"Acetic acid, hydroxy-",401.85,1,O=C(O)CO,le15,0,0,0,1
+ethanethioic S-acid,284.25,1,CC(=O)S,le15,0,0,0,1
+methylphosphonous acid,343.35,1,CP(O)O,le15,0,0,0,1
+"Isocyanic acid, allyl ester",316.15,1,C=CCN=C=O,le15,0,0,0,1
+but-2-ynoic acid,364.05,1,CC#CC(=O)O,le15,0,0,0,1
+"Acetic acid, cyano-",380.95,1,N#CCC(=O)O,le15,0,0,0,1
+"2-Propenoic acid, 2-methyl-",347.32199999999995,1,C=C(C)C(=O)O,le15,0,0,0,1
+(Z)-but-2-enoic acid,354.75,1,C/C=C\C(=O)O,le15,0,0,0,1
+But-3-enoic acid,341.35,1,C=CCC(=O)O,le15,0,0,0,1
+cyclopropanecarboxylic acid,344.85,1,O=C(O)C1CC1,le15,0,0,0,1
+"Formic acid, allyl ester (8CI)",279.65,1,C=CCOC=O,le15,0,0,0,1
+"2-Propenoic acid, methyl ester",279.817,1,C=CC(=O)OC,le15,0,0,0,1
+"Isothiocyanic acid, ethyl ester",305.35,1,CCN=C=S,le15,0,0,0,1
+Acetic acid ethyl ester,269.15,1,CCOC(C)=O,le15,0,0,0,1
+"Propanoic acid, methyl ester",271.15,1,CCC(=O)OC,le15,0,0,0,1
+"Carbamic acid, ethyl ester",370.35,1,CCOC(N)=O,le15,0,0,0,1
+"Propanoic acid, 2-hydroxy-",383.086,1,CC(O)C(=O)O,le15,0,0,0,1
+"Carbonic acid, dimethyl ester",291.15,1,COC(=O)OC,le15,0,0,0,1
+"Acetic acid, 2-methoxy-",394.15,1,COCC(=O)O,le15,0,0,0,1
+"Propanoic acid, 2-hydroxy-, (S)- (9CI)",383.05,1,C[C@H](O)C(=O)O,le15,0,0,0,1
+"Carbazic acid, methyl ester (8CI)",359.25,1,COC(=O)NN,le15,0,0,0,1
+"Acetic acid, fluoro-, methyl ester",290.75,1,COC(=O)CF,le15,0,0,0,1
+"Acetic acid, mercapto-",372.95,1,O=C(O)CS,le15,0,0,0,1
+dimethylphosphinic acid,410.85,1,CP(C)(=O)O,le15,0,0,0,1
+"Acetic acid, chloro-",399.15,1,O=C(O)CCl,le15,0,0,0,1
+"Carbonochloridic acid, methyl ester",280.95,1,COC(=O)Cl,le15,0,0,0,1
+"Acetic acid, 2,2-difluoro-",351.15,1,O=C(O)C(F)F,le15,0,0,0,1
+"Phosphonofluoridic acid, methyl-",318.75,1,CP(=O)(O)F,le15,0,0,0,1
+"Acrylic acid, vinyl ester (6CI,7CI,8CI)",286.65,1,C=COC(=O)C=C,le15,0,0,0,1
+"Ethanimidic acid, N-cyano-, methyl ester",292.05,1,COC(C)=NC#N,le15,0,0,0,1
+"Isocyanic acid, butyl ester",290.95,1,CCCCN=C=O,le15,0,0,0,1
+"Isothiocyanic acid, allyl ester",309.45,1,C=CCN=C=S,le15,0,0,0,1
+"2-Propenoic acid, 2-methyl-, methyl ester",283.15,1,C=C(C)C(=O)OC,le15,0,0,0,1
+"2-Propenoic acid, ethyl ester",288.70599999999996,1,C=CC(=O)OCC,le15,0,0,0,1
+"2-Butenoic acid, 3-methyl-",369.15,1,CC(C)=CC(=O)O,le15,0,0,0,1
+(Z)-2-methylbut-2-enoic acid,369.05,1,C/C=C(/C)C(=O)O,le15,0,0,0,1
+4-Pentenoic acid,362.15,1,C=CCCC(=O)O,le15,0,0,0,1
+"Acetic acid, 2-propenyl ester",279.85,1,C=CCOC(C)=O,le15,0,0,0,1
+"2-Butenoic acid, methyl ester, (2E)-",277.15,1,C/C=C/C(=O)OC,le15,0,0,0,1
+cyclobutanecarboxylic acid,356.15,1,O=C(O)C1CCC1,le15,0,0,0,1
+2-methylcyclopropane-1-carboxylic acid,360.95,1,CC1CC1C(=O)O,le15,0,0,0,1
+3-oxobutanoic acid,384.95,1,CC(=O)CC(=O)O,le15,0,0,0,1
+"Propanoic acid, ethyl ester",285.35,1,CCOC(=O)CC,le15,0,0,0,1
+"Acetic acid, 1-methylethyl ester",289.85,1,CC(=O)OC(C)C,le15,0,0,0,1
+"Acetic acid, propyl ester",285.95,1,CCCOC(C)=O,le15,0,0,0,1
+"Formic acid, 2-methylpropyl ester",283.15,1,CC(C)COC=O,le15,0,0,0,1
+"Propanoic acid, 2-methyl-, methyl ester",277.55,1,COC(=O)C(C)C,le15,0,0,0,1
+"Formic acid, sec-butyl ester (8CI)",276.65,1,CCC(C)OC=O,le15,0,0,0,1
+"Carbamic acid, N-methyl-, ethyl ester",330.95,1,CCOC(=O)NC,le15,0,0,0,1
+"Nitrous acid, butyl ester",261.15,1,CCCCON=O,le15,0,0,0,1
+"Nitrous acid, 2-methylpropyl ester",252.15,1,CC(C)CON=O,le15,0,0,0,1
+Propanedioic acid,475.05,1,O=C(O)CC(=O)O,le15,0,0,0,1
+"Acetic acid, 2-fluoro-, ethyl ester",303.15,1,CCOC(=O)CF,le15,0,0,0,1
+"Propanoic acid, 3-mercapto-",373.88699999999994,1,O=C(O)CCS,le15,0,0,0,1
+"Acetic acid, mercapto-, methyl ester",329.15,1,COC(=O)CS,le15,0,0,0,1
+"Acrylic acid, 3-chloro-, (Z)- (8CI)",343.25,1,O=C(O)/C=C\Cl,le15,0,0,0,1
+"Methanesulfinic acid, 1-amino-1-imino-",441.85,1,N=C(N)S(=O)O,le15,0,0,0,1
+"Acetic acid, 2-chloro-, methyl ester",324.85,1,COC(=O)CCl,le15,0,0,0,1
+"Propanoic acid, 3-chloro-",398.15,1,O=C(O)CCCl,le15,0,0,0,1
+"Carbonochloridic acid, ethyl ester",291.95,1,CCOC(=O)Cl,le15,0,0,0,1
+"Propanoic acid, 2-chloro-",380.15,1,CC(Cl)C(=O)O,le15,0,0,0,1
+"Phosphonic acid, dimethyl ester",302.594,1,CO[PH](=O)OC,le15,0,0,0,1
+"Methanesulfonic acid, methyl ester",377.15,1,COS(C)(=O)=O,le15,0,0,0,1
+"2-Propenoic acid, 2-cyano-, methyl ester",340.75,1,C=C(C#N)C(=O)OC,le15,0,0,0,1
+2-Furancarboxylic acid,367.35,1,O=C(O)c1ccco1,le15,0,0,0,1
+1H-imidazole-5-carboxylic acid,526.35,1,O=C(O)c1cnc[nH]1,le15,0,0,0,1
+"Acrylic acid, allyl ester (8CI)",342.35,1,C=CCOC(=O)C=C,le15,0,0,0,1
+"2-Butenoic acid, ethenyl ester",300.15,1,C=COC(=O)C=CC,le15,0,0,0,1
+"2,4-Hexadienoic acid, (2E,4E)-",400.15,1,C/C=C/C=C/C(=O)O,le15,0,0,0,1
+2-chloro-2-fluoroacetic acid,331.75,1,O=C(O)C(F)Cl,le15,0,0,0,1
+"Acetic acid, 2,2,2-trifluoro-",270.15,1,O=C(O)C(F)(F)F,le15,0,0,0,1
+"Fluorosulfuric acid, methyl ester",283.15,1,COS(=O)(=O)F,le15,0,0,0,1
+"Acetic acid, diazo-, ethyl ester",319.15,1,CCOC(=O)C=[N+]=[N-],le15,0,0,0,1
+"2-Propenoic acid, 2-methyl-, ethyl ester",288.75,1,C=C(C)C(=O)OCC,le15,0,0,0,1
+"Butanoic acid, ethenyl ester (9CI)",299.55,1,C=COC(=O)CCC,le15,0,0,0,1
+"2-Butenoic acid, ethyl ester, (E)- (9CI)",275.15,1,C/C=C/C(=O)OCC,le15,0,0,0,1
+"Propionic acid, allyl ester (8CI)",306.65,1,C=CCOC(=O)CC,le15,0,0,0,1
+cyclopentanecarboxylic acid,366.15,1,O=C(O)C1CCCC1,le15,0,0,0,1
+(E)-hex-3-enoic acid,379.55,1,CC/C=C/CC(=O)O,le15,0,0,0,1
+"2,2-dimethylbut-3-enoic acid",357.45,1,C=CC(C)(C)C(=O)O,le15,0,0,0,1
+"2-Butenoic acid, ethyl ester",301.45,1,CC=CC(=O)OCC,le15,0,0,0,1
+(E)-2-methylpent-2-enoic acid,380.15,1,CC/C=C(\C)C(=O)O,le15,0,0,0,1
+(E)-2-methylpent-3-enoic acid,370.55,1,C/C=C/C(C)C(=O)O,le15,0,0,0,1
+hex-5-enoic acid,373.25,1,C=CCCCC(=O)O,le15,0,0,0,1
+(E)-4-methylpent-2-enoic acid,379.15,1,CC(C)/C=C/C(=O)O,le15,0,0,0,1
+"Isothiocyanic acid, butyl ester",339.25,1,CCCCN=C=S,le15,0,0,0,1
+"Butanoic acid, 3-oxo-, methyl ester",334.75,1,COC(=O)CC(C)=O,le15,0,0,0,1
+"Pentanoic acid, 4-oxo-",388.15,1,CC(=O)CCC(=O)O,le15,0,0,0,1
+"Pyruvic acid, ethyl ester (8CI)",318.15,1,CCOC(=O)C(C)=O,le15,0,0,0,1
+"2-Propenoic acid, 2-hydroxyethyl ester",371.45,1,C=CC(=O)OCCO,le15,0,0,0,1
+2-oxopentanoic acid,349.75,1,CCCC(=O)C(=O)O,le15,0,0,0,1
+3-methyl-2-oxobutanoic acid,344.15,1,CC(C)C(=O)C(=O)O,le15,0,0,0,1
+"Pentanoic acid, 2-methyl-",364.15,1,CCCC(C)C(=O)O,le15,0,0,0,1
+"Propanoic acid, 2-methyl-, ethyl ester",286.15,1,CCOC(=O)C(C)C,le15,0,0,0,1
+"Pentanoic acid, 3-methyl-",361.55,1,CCC(C)CC(=O)O,le15,0,0,0,1
+"Acetic acid, 1-methylpropyl ester",289.25,1,CCC(C)OC(C)=O,le15,0,0,0,1
+"Butanoic acid, ethyl ester",292.594,1,CCCC(=O)OCC,le15,0,0,0,1
+"Propanoic acid, propyl ester",297.55,1,CCCOC(=O)CC,le15,0,0,0,1
+"Acetic acid, 2-methylpropyl ester",294.85,1,CC(=O)OCC(C)C,le15,0,0,0,1
+"Acetic acid, 1,1-dimethylethyl ester",284.15,1,CC(=O)OC(C)(C)C,le15,0,0,0,1
+"2,2-dimethylbutanoic acid",352.55,1,CCC(C)(C)C(=O)O,le15,0,0,0,1
+"Pentanoic acid, methyl ester",295.35,1,CCCCC(=O)OC,le15,0,0,0,1
+"3,3-dimethylbutanoic acid",353.75,1,CC(C)(C)CC(=O)O,le15,0,0,0,1
+"2,3-dimethylbutanoic acid",356.55,1,CC(C)C(C)C(=O)O,le15,0,0,0,1
+"Butanoic acid, 2-methyl-, methyl ester",292.55,1,CCC(C)C(=O)OC,le15,0,0,0,1
+"Nitrous acid, 3-methylbutyl ester",283.15,1,CC(C)CCON=O,le15,0,0,0,1
+"Nitrous acid, pentyl ester",282.05,1,CCCCCON=O,le15,0,0,0,1
+"Carbamic acid, butyl ester",381.15,1,CCCCOC(N)=O,le15,0,0,0,1
+"Butanoic acid, 4-(methylamino)-",370.45,1,CNCCCC(=O)O,le15,0,0,0,1
+"Propanedioic acid, oxo- (9CI)",486.15,1,O=C(O)C(=O)C(=O)O,le15,0,0,0,1
+Butanedioic acid,384.05,1,O=C(O)CCC(=O)O,le15,0,0,0,1
+"Propanoic acid, 2-hydroxy-, ethyl ester",327.75,1,CCOC(=O)C(C)O,le15,0,0,0,1
+"Carbonic acid, diethyl ester",304.25,1,CCOC(=O)OCC,le15,0,0,0,1
+"Propanoic acid, 2-hydroxy-, ethyl ester, (2S)-",319.15,1,CCOC(=O)[C@H](C)O,le15,0,0,0,1
+"Propanoic acid, 3-nitro- (9CI)",421.55,1,O=C(O)CC[N+](=O)[O-],le15,0,0,0,1
+"Acetic acid, nitro-, methyl ester",378.15,1,COC(=O)C[N+](=O)[O-],le15,0,0,0,1
+"Acetic acid, mercapto-, ethyl ester",320.95,1,CCOC(=O)CS,le15,0,0,0,1
+"Carbonochloridic acid, 2-propenyl ester",361.15,1,C=CCOC(=O)Cl,le15,0,0,0,1
+"Carbonochloridic acid, 1-methylethyl ester",298.15,1,CC(C)OC(=O)Cl,le15,0,0,0,1
+"Butyric acid, 4-chloro- (8CI)",374.25,1,O=C(O)CCCCl,le15,0,0,0,1
+"Acetic acid, chloro-, ethyl ester",338.75,1,CCOC(=O)CCl,le15,0,0,0,1
+3-Pyridinecarboxylic acid,403.85,1,O=C(O)c1cccnc1,le15,0,0,0,1
+4-Pyridinecarboxylic acid,466.45,1,O=C(O)c1ccncc1,le15,0,0,0,1
+"Phosphorous acid, trimethyl ester",356.85,1,COP(OC)OC,le15,0,0,0,1
+"Phosphonic acid, methyl-, dimethyl ester",342.05,1,COP(C)(=O)OC,le15,0,0,0,1
+"Acetic acid, 2,2-difluoro-, ethyl ester",298.15,1,CCOC(=O)C(F)F,le15,0,0,0,1
+"Formic acid, chlorothio-, S-ethyl ester (7CI,8CI)",303.75,1,CCSC(=O)Cl,le15,0,0,0,1
+"2-Propenoic acid, 2-cyano-, ethyl ester",352.35,1,C=C(C#N)C(=O)OCC,le15,0,0,0,1
+"Phosphoric acid, dimethyl ester",323.55,1,COP(=O)([O-])OC,le15,0,0,0,1
+"Phosphoric acid, monoethyl ester",379.55,1,CCOP(=O)([O-])[O-],le15,0,0,0,1
+Bis-(hydroxymethyl)-phosphinic acid,578.25,1,O=P(O)(CO)CO,le15,0,0,0,1
+"2-Furancarboxylic acid, methyl ester",331.75,1,COC(=O)c1ccco1,le15,0,0,0,1
+"Sulfuric acid, dimethyl ester",356.483,1,COS(=O)(=O)OC,le15,0,0,0,1
+"2-Propenoic acid, 2-methyl-, 2-propenyl ester",310.15,1,C=CCOC(=O)C(=C)C,le15,0,0,0,1
+cyclohexene-1-carboxylic acid,384.15,1,O=C(O)C1=CCCCC1,le15,0,0,0,1
+Cyclohex-3-ene-1-carboxylic acid,383.05,1,O=C(O)C1CC=CCC1,le15,0,0,0,1
+"Valeric acid, 5-cyano-",419.55,1,N#CCCCCC(=O)O,le15,0,0,0,1
+"2-Propenoic acid, oxiranylmethyl ester",349.25,1,C=CC(=O)OCC1CO1,le15,0,0,0,1
+Cyclohexanecarboxylic acid,380.15,1,O=C(O)C1CCCCC1,le15,0,0,0,1
+"2-Propenoic acid, 2-methylpropyl ester",305.95,1,C=CC(=O)OCC(C)C,le15,0,0,0,1
+Acrylic acid butyl ester (8CI),312.55,1,C=CC(=O)OCCCC,le15,0,0,0,1
+hept-6-enoic acid,386.45,1,C=CCCCCC(=O)O,le15,0,0,0,1
+2-cyclopentylacetic acid,387.15,1,O=C(O)CC1CCCC1,le15,0,0,0,1
+2-hydroxypropanoic acid,386.15,1,CC(C(=O)O)O,pubchem,0,0,0,1
+but-2-enoic acid,361.15,1,CC=CC(=O)O,pubchem,0,0,0,1
+"hexa-2,4-dienoic acid",400.15,1,CC=CC=CC(=O)O,pubchem,0,0,0,1
+"2,3-dichloro-4-oxobut-2-enoic acid",373.15,1,C(=O)C(=C(C(=O)O)Cl)Cl,pubchem,0,0,0,1
+"(1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylic acid",460.15,1,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)O)C,pubchem,0,0,0,1
+3-(3-ethylcyclopentyl)propanoic acid,374.15,1,CCC1CCC(C1)CCC(=O)O,pubchem,0,0,0,1
+acetic acid,313.15,1,CC(=O)O,pubchem,0,0,0,1
+hexanoic acid,377.15,1,CCCCCC(=O)O,pubchem,0,0,0,1
+propanoic acid,327.15,1,CCC(=O)O,pubchem,0,0,0,1
+octadecanoic acid,469.15,1,CCCCCCCCCCCCCCCCCC(=O)O,pubchem,0,0,0,1
+pentanoic acid,362.15,1,CCCCC(=O)O,pubchem,0,0,0,1
+Formic acid,342.15,1,O=CO,hazardous materials,0,0,0,1
+prop-2-ynoic acid,331.15,1,C#CC(=O)O,pubchem,0,0,0,1
+ethaneperoxoic acid,314.15,1,CC(=O)OO,pubchem,0,0,0,1
+"2-Butenoic acid, (E)- (9CI)",354.75,1,C/C=C/C(=O)O,le15,0,0,0,1
+2-methylpropanoic acid,329.15,1,CC(C)C(=O)O,pubchem,0,0,0,1
+methanesulfonic acid,462.15,1,CS(=O)(=O)O,pubchem,0,0,0,1
+"2,2-dimethylpropanoic acid",337.15,1,CC(C)(C)C(=O)O,pubchem,0,0,0,1
+3-methylbutanoic acid,343.15,1,CC(C)CC(=O)O,pubchem,0,0,0,1
+"Butyric acid, 2-methyl- (6CI,8CI)",346.55,1,CCC(C)C(=O)O,le15,0,0,0,1
+2-ethoxyacetic acid,371.15,1,CCOCC(=O)O,pubchem,0,0,0,1
+(E)-hex-2-enoic acid,388.55,1,CCC/C=C/C(=O)O,le15,0,0,0,1
+"Butanoic acid, 2-ethyl-",360.15,1,CCC(CC)C(=O)O,le15,0,0,0,1

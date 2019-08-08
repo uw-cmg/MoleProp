@@ -1,0 +1,26 @@
+compound,flashpoint,pure substance,smiles,source,is_silicon,is_metallic,is_tin,is_acid
+dibutyl(dichloro)stannane,441.15,1,CCCC[Sn](CCCC)(Cl)Cl,pubchem,0,1,1,0
+butyl(trichloro)stannane,354.15,1,CCCC[Sn](Cl)(Cl)Cl,pubchem,0,1,1,0
+bromo(triethyl)stannane,372.15,1,CC[Sn](CC)(CC)Br,pubchem,0,1,1,0
+triphenyltin;hydrate,673.15,1,C1=CC=C(C=C1)[Sn](C2=CC=CC=C2)C3=CC=CC=C3.O,pubchem,0,1,1,0
+[dibutyl(dodecanoyloxy)stannyl] dodecanoate,508.15,1,CCCCCCCCCCCC(=O)O[Sn](CCCC)(CCCC)OC(=O)CCCCCCCCCCC,pubchem,0,1,1,0
+[acetyloxy(dibutyl)stannyl] acetate,416.15,1,CCCC[Sn](CCCC)(OC(=O)C)OC(=O)C,pubchem,0,1,1,0
+ALLYLTRI-n-BUTYLTIN,376.15,1,C=CC[Sn](CCCC)(CCCC)CCCC,gelest_tin,0,1,1,0
+BIS[BIS(TRIMETHYLSILYL)AMINO]TIN(II),329.15,1,C[Si](C)(C)N([Sn]N([Si](C)(C)C)[Si](C)(C)C)[Si](C)(C)C,gelest_tin,1,1,1,0
+t-BUTYLTRI n-BUTYLTIN,375.15,1,CCCC[Sn](CCCC)(CCCC)C(C)(C)C,gelest_tin,0,1,1,0
+CHLOROMETHYLTRIMETHYLTIN,312.15,1,C[Sn](C)(C)CCl,gelest_tin,0,1,1,0
+DIALLYLDI-n-BUTYLTIN,374.15,1,C=CC[Sn](CC=C)(CCCC)CCCC,gelest_tin,0,1,1,0
+DI-n-BUTYLDIACETOXYTIN,416.15,1,CCCC[Sn](CCCC)(OC(C)=O)OC(C)=O,gelest_tin,0,1,1,0
+DI-n-BUTYLDI-n-BUTOXYTIN,389.15,1,CCCCO[Sn](CCCC)(CCCC)OCCCC,gelest_tin,0,1,1,0
+DI-n-BUTYLDICHLOROTIN,441.15,1,CCCC[Sn](Cl)(Cl)CCCC,gelest_tin,0,1,1,0
+DI-t-BUTYLDICHLOROTIN,386.15,1,CC(C)(C)[Sn](Cl)(Cl)C(C)(C)C,gelest_tin,0,1,1,0
+DI-n-BUTYLDIMETHOXYTIN,383.15,1,CCCC[Sn](CCCC)(OC)OC,gelest_tin,0,1,1,0
+DIMETHYLAMINOTRI-n-BUTYLTIN,388.15,1,CCCC[Sn](CCCC)(CCCC)N(C)C,gelest_tin,0,1,1,0
+DIMETHYLAMINOTRIMETHYLTIN,274.15,1,CN(C)[Sn](C)(C)C,gelest_tin,0,1,1,0
+DIOCTYLDICHLOROTIN,477.15,1,CCCCCCCC[Sn](Cl)(Cl)CCCCCCCC,gelest_tin,0,1,1,0
+DIOCTYLDILAURYLTIN,471.15,1,CCCCCCCCCCCC[Sn](CCCCCCCC)(CCCCCCCC)CCCCCCCCCCCC,gelest_tin,0,1,1,0
+DIVINYLDICHLOROTIN,477.15,1,C=C[Sn](Cl)(Cl)C=C,gelest_tin,0,1,1,0
+1-ETHOXYVINYLTRI-n-BUTYLTIN,386.15,1,C=C(OCC)[Sn](CCCC)(CCCC)CCCC,gelest_tin,0,1,1,0
+ETHYNYLTRI-n-BUTYLTIN,346.15,1,C#C[Sn](CCCC)(CCCC)CCCC,gelest_tin,0,1,1,0
+PHENYLETHYNYLTRI-n-BUTYLTIN,386.15,1,CCCC[Sn](C#Cc1ccccc1)(CCCC)CCCC,gelest_tin,0,1,1,0
+PHENYLTRI-n-BUTYLTIN,380.15,1,CCCC[Sn](CCCC)(CCCC)c1ccccc1,gelest_tin,0,1,1,0

@@ -1,0 +1,16 @@
+,Unnamed: 0,compound,flashpoint,pure substance,smiles,source
+3,3,m -xylene,298.2,1,Cc1cccc(C)c1,godinho11
+7,7,m -ethyltoluene,311.2,1,CCc1cccc(C)c1,godinho11
+28,28,1-tert -butyl-3-methylbenzene,333.7,1,Cc1cccc(C(C)(C)C)c1,godinho11
+31,31,"1-ethyl-2,4-dimethylbenzene",330.2,1,CCc1ccc(C)cc1C,godinho11
+39,39,1-sec -butyl-3-methylbenzene,336.2,1,CCC(C)c1cccc(C)c1,godinho11
+41,41,1-isobutyl-4-methylbenzene,340.5,1,Cc1ccc(CC(C)C)cc1,godinho11
+43,43,1-sec -butyl-4-methylbenzene,338.0,1,CCC(C)c1ccc(C)cc1,godinho11
+45,45,p -ethylcumene,338.9,1,CCc1ccc(C(C)C)cc1,godinho11
+48,48,"1,3-dimethyl-4-isopropylbenzene",340.3,1,Cc1ccc(C(C)C)c(C)c1,godinho11
+55,55,pentylbenzene,339.2,1,CCCCCc1ccccc1,godinho11
+60,60,"1,4-diisopropylbenzene",349.2,1,CC(C)c1ccc(C(C)C)cc1,godinho11
+62,62,1-tert -butyl-4-ethylbenzene,349.1,1,CCc1ccc(C(C)(C)C)cc1,godinho11
+65,65,"1,2,3-triethylbenzene",352.0,1,CCc1cccc(CC)c1CC,godinho11
+67,67,hexylbenzene,356.7,1,CCCCCCc1ccccc1,godinho11
+73,73,"1,3-dibutylbenzene",382.4,1,CCCCc1cccc(CCCC)c1,godinho11

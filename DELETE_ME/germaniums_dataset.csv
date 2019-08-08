@@ -1,0 +1,19 @@
+compound,flashpoint,pure substance,smiles,source,is_silicon,is_metallic,is_tin,is_acid
+ALLYLTRICHLOROGERMANE,328.15,1,C=CC[Ge](Cl)(Cl)Cl,gelest_germanium,0,1,0,0
+ALLYLTRIETHYLGERMANE,321.15,1,C=CC[Ge](CC)(CC)CC,gelest_germanium,0,1,0,0
+ALLYLTRIMETHYLGERMANE,274.15,1,C=CC[Ge](C)(C)C,gelest_germanium,0,1,0,0
+BIS(CHLOROMETHYL)DIMETHYLGERMANE,324.15,1,C[Ge](C)(CCl)CCl,gelest_germanium,0,1,0,0
+t-BUTYLDIMETHYLCHLOROGERMANE,307.15,1,CC(C)(C)[Ge](C)(C)Cl,gelest_germanium,0,1,0,0
+n-BUTYLTRICHLOROGERMANE,355.15,1,CCCC[Ge](Cl)(Cl)Cl,gelest_germanium,0,1,0,0
+DI-n-BUTYLDICHLOROGERMANE,380.15,1,CCCC[Ge](Cl)(Cl)CCCC,gelest_germanium,0,1,0,0
+DICHLOROMETHYLTRIMETHYLGERMANE,306.15,1,C[Ge](C)(C)C(Cl)Cl,gelest_germanium,0,1,0,0
+DIETHYLDICHLOROGERMANE,325.15,1,CC[Ge](Cl)(Cl)CC,gelest_germanium,0,1,0,0
+DIMETHYLAMINOTRIMETHYLGERMANE,263.15,1,CN(C)[Ge](C)(C)C,gelest_germanium,0,1,0,0
+DIPHENYLDICHLOROGERMANE,433.15,1,Cl[Ge](Cl)(c1ccccc1)c1ccccc1,gelest_germanium,0,1,0,0
+DIPHENYLGERMANE,377.15,1,c1ccc([GeH2]c2ccccc2)cc1,gelest_germanium,0,1,0,0
+ETHYLTRICHLOROGERMANE,324.15,1,CC[Ge](Cl)(Cl)Cl,gelest_germanium,0,1,0,0
+HEXAMETHYLDIGERMANE,287.15,1,C[Ge](C)(C)[Ge](C)(C)C,gelest_germanium,0,1,0,0
+METHACRYLOXYMETHYLTRIMETHYLGERMANE,336.15,1,C=C(C)C(=O)OC[Ge](C)(C)C,gelest_germanium,0,1,0,0
+METHYLTRICHLOROGERMANE,283.15,1,C[Ge](Cl)(Cl)Cl,gelest_germanium,0,1,0,0
+METHYLTRIETHOXYGERMANE,313.15,1,CCO[Ge](C)(OCC)OCC,gelest_germanium,0,1,0,0
+TETRAALLYLGERMANE,343.15,1,C=CC[Ge](CC=C)(CC=C)CC=C,gelest_germanium,0,1,0,0
