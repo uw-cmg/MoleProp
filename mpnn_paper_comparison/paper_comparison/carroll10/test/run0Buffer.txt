@@ -1,0 +1,289 @@
+==========Hyperparameter==========
+{'nb_epoch': 200, 'n_tasks': 1, 'batch_size': 32, 'n_atom_feat': 75, 'n_pair_feat': 14, 'T': 1, 'M': 1, 'dropout': 0.2, 'learning_rate': 0.001, 'mode': 'regression'}
+|||||||||||||||||||||Loading ../optimization/train_0.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 233
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:carroll10, Number of data: [233]
+-----------------------------------------------------
+Mean: 292.53218884120173
+-----------------------------------------------------
+Std: 39.862695841567074
+=====================================================
+
+|||||||||||||||||||||Loading ../optimization/test_0.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 59
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:carroll10, Number of data: [59]
+-----------------------------------------------------
+Mean: 295.3898305084746
+-----------------------------------------------------
+Std: 35.884881529476594
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/train_0.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.288 s
+TIMING: dataset construction took 0.336 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/test_0.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.067 s
+TIMING: dataset construction took 0.083 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.046 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.015 s
+Loading dataset from disk.
+computed_metrics: [5.078162771438672]
+computed_metrics: [3.5595350393476672]
+computed_metrics: [0.981798120615065]
+computed_metrics: [2.5297968547672913]
+computed_metrics: [0.9972971380538674]
+About to make parity plot for test  0
+About to make residual plot for test  0
+==========Hyperparameter==========
+{'nb_epoch': 400, 'n_tasks': 1, 'batch_size': 8, 'n_atom_feat': 75, 'n_pair_feat': 14, 'T': 1, 'M': 1, 'dropout': 0.2, 'learning_rate': 0.0005, 'mode': 'regression'}
+|||||||||||||||||||||Loading ../optimization/train_1.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 233
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:carroll10, Number of data: [233]
+-----------------------------------------------------
+Mean: 292.09442060085837
+-----------------------------------------------------
+Std: 38.73461445099409
+=====================================================
+
+|||||||||||||||||||||Loading ../optimization/test_1.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 59
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:carroll10, Number of data: [59]
+-----------------------------------------------------
+Mean: 297.1186440677966
+-----------------------------------------------------
+Std: 40.354927377545735
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/train_1.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.284 s
+TIMING: dataset construction took 0.321 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/test_1.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.069 s
+TIMING: dataset construction took 0.086 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.039 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.016 s
+Loading dataset from disk.
+computed_metrics: [6.162502725285054]
+computed_metrics: [4.81497171435085]
+computed_metrics: [0.97717614102071]
+computed_metrics: [2.154347520882526]
+computed_metrics: [0.9976723085096548]
+About to make parity plot for test  1
+About to make residual plot for test  1
+==========Hyperparameter==========
+{'nb_epoch': 200, 'n_tasks': 1, 'batch_size': 8, 'n_atom_feat': 75, 'n_pair_feat': 14, 'T': 1, 'M': 1, 'dropout': 0.2, 'learning_rate': 0.0005, 'mode': 'regression'}
+|||||||||||||||||||||Loading ../optimization/train_2.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 234
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:carroll10, Number of data: [234]
+-----------------------------------------------------
+Mean: 292.0726495726496
+-----------------------------------------------------
+Std: 37.636718724978024
+=====================================================
+
+|||||||||||||||||||||Loading ../optimization/test_2.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 58
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:carroll10, Number of data: [58]
+-----------------------------------------------------
+Mean: 297.2931034482759
+-----------------------------------------------------
+Std: 44.40879027126872
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/train_2.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.264 s
+TIMING: dataset construction took 0.297 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/test_2.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.068 s
+TIMING: dataset construction took 0.084 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.039 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.016 s
+Loading dataset from disk.
+computed_metrics: [7.534999032414988]
+computed_metrics: [5.5208571234021955]
+computed_metrics: [0.9808785369540157]
+computed_metrics: [3.700446612771541]
+computed_metrics: [0.9971677501676017]
+About to make parity plot for test  2
+About to make residual plot for test  2
+==========Hyperparameter==========
+{'nb_epoch': 200, 'n_tasks': 1, 'batch_size': 8, 'n_atom_feat': 75, 'n_pair_feat': 14, 'T': 1, 'M': 1, 'dropout': 0.2, 'learning_rate': 0.0005, 'mode': 'regression'}
+|||||||||||||||||||||Loading ../optimization/train_3.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 234
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:carroll10, Number of data: [234]
+-----------------------------------------------------
+Mean: 294.9230769230769
+-----------------------------------------------------
+Std: 39.83854838310537
+=====================================================
+
+|||||||||||||||||||||Loading ../optimization/test_3.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 58
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:carroll10, Number of data: [58]
+-----------------------------------------------------
+Mean: 285.7931034482759
+-----------------------------------------------------
+Std: 35.0582265645135
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/train_3.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.272 s
+TIMING: dataset construction took 0.309 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/test_3.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.063 s
+TIMING: dataset construction took 0.079 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.041 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.015 s
+Loading dataset from disk.
+computed_metrics: [5.246265747351107]
+computed_metrics: [4.264718906661682]
+computed_metrics: [0.9834266183237039]
+computed_metrics: [3.190137486981594]
+computed_metrics: [0.9970479752153583]
+About to make parity plot for test  3
+||||||||||||||||Directory parity_plot Created||||||||||||||||
+About to make residual plot for test  3
+||||||||||||||||Directory residual_plot Created||||||||||||||||
+==========Hyperparameter==========
+{'nb_epoch': 150, 'n_tasks': 1, 'batch_size': 32, 'n_atom_feat': 75, 'n_pair_feat': 14, 'T': 1, 'M': 1, 'dropout': 0.0, 'learning_rate': 0.001, 'mode': 'regression'}
+|||||||||||||||||||||Loading ../optimization/train_4.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 234
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:carroll10, Number of data: [234]
+-----------------------------------------------------
+Mean: 293.9188034188034
+-----------------------------------------------------
+Std: 39.1340525056483
+=====================================================
+
+|||||||||||||||||||||Loading ../optimization/test_4.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 58
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:carroll10, Number of data: [58]
+-----------------------------------------------------
+Mean: 289.8448275862069
+-----------------------------------------------------
+Std: 38.87081696302845
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/train_4.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.317 s
+TIMING: dataset construction took 0.357 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/test_4.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.073 s
+TIMING: dataset construction took 0.091 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.044 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.016 s
+Loading dataset from disk.
+computed_metrics: [7.306116281774957]
+computed_metrics: [5.752528966276693]
+computed_metrics: [0.9766575122291113]
+computed_metrics: [4.3545571663908476]
+computed_metrics: [0.9948245228311478]
+About to make parity plot for test  4
+||||||||||||||||Directory parity_plot Created||||||||||||||||
+About to make residual plot for test  4
+||||||||||||||||Directory residual_plot Created||||||||||||||||

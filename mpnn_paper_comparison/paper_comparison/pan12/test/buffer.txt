@@ -1,0 +1,178 @@
+==========Hyperparameter==========
+{'nb_epoch': 1, 'n_tasks': 1, 'batch_size': 8, 'graph_conv_layers': [64, 64], 'dense_layer_size': 128, 'learning_rate': 0.005, 'mode': 'regression'}
+|||||||||||||||||||||Loading ../optimization/train_0.csv|||||||||||||||||||||||
+||||||||||||||||Directory dataset_info Created||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 152
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:pan12, Number of data: [152]
+-----------------------------------------------------
+Mean: 311.94736842105266
+-----------------------------------------------------
+Std: 43.28219270034109
+=====================================================
+
+|||||||||||||||||||||Loading ../optimization/test_0.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 39
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:pan12, Number of data: [39]
+-----------------------------------------------------
+Mean: 320.2564102564103
+-----------------------------------------------------
+Std: 48.320594905669225
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/train_0.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.228 s
+TIMING: dataset construction took 0.272 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/test_0.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.049 s
+TIMING: dataset construction took 0.063 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.043 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.012 s
+Loading dataset from disk.
+computed_metrics: [19.914916691567626]
+computed_metrics: [15.072141291042609]
+computed_metrics: [0.8360022586911845]
+computed_metrics: [2.1335237764366513]
+computed_metrics: [0.998818060844751]
+About to make parity plot for test  0
+||||||||||||||||Directory parity_plot Created||||||||||||||||
+About to make residual plot for test  0
+||||||||||||||||Directory residual_plot Created||||||||||||||||
+==========Hyperparameter==========
+{'nb_epoch': 2, 'n_tasks': 1, 'batch_size': 8, 'graph_conv_layers': [64, 64], 'dense_layer_size': 128, 'learning_rate': 0.005, 'mode': 'regression'}
+|||||||||||||||||||||Loading ../optimization/train_1.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 153
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:pan12, Number of data: [153]
+-----------------------------------------------------
+Mean: 313.32026143790847
+-----------------------------------------------------
+Std: 44.100759868553645
+=====================================================
+
+|||||||||||||||||||||Loading ../optimization/test_1.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 38
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:pan12, Number of data: [38]
+-----------------------------------------------------
+Mean: 314.94736842105266
+-----------------------------------------------------
+Std: 45.92646729602692
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/train_1.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.214 s
+TIMING: dataset construction took 0.384 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/test_1.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.048 s
+TIMING: dataset construction took 0.063 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.032 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.012 s
+Loading dataset from disk.
+computed_metrics: [12.252224762199862]
+computed_metrics: [10.138497949715383]
+computed_metrics: [0.9322231279652545]
+computed_metrics: [5.221228845600047]
+computed_metrics: [0.9866793824260217]
+About to make parity plot for test  1
+||||||||||||||||Directory parity_plot Created||||||||||||||||
+About to make residual plot for test  1
+||||||||||||||||Directory residual_plot Created||||||||||||||||
+==========Hyperparameter==========
+{'nb_epoch': 2, 'n_tasks': 1, 'batch_size': 8, 'graph_conv_layers': [64, 64], 'dense_layer_size': 128, 'learning_rate': 0.005, 'mode': 'regression'}
+|||||||||||||||||||||Loading ../optimization/train_2.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 153
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:pan12, Number of data: [153]
+-----------------------------------------------------
+Mean: 313.3137254901961
+-----------------------------------------------------
+Std: 44.78082158049524
+=====================================================
+
+|||||||||||||||||||||Loading ../optimization/test_2.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 38
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:pan12, Number of data: [38]
+-----------------------------------------------------
+Mean: 314.9736842105263
+-----------------------------------------------------
+Std: 43.13742141807139
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/train_2.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.238 s
+TIMING: dataset construction took 0.275 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/test_2.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.054 s
+TIMING: dataset construction took 0.071 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.036 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.014 s
+Loading dataset from disk.
+computed_metrics: [15.385640421856984]
+computed_metrics: [12.562275052169491]
+computed_metrics: [0.8702187147263106]
+computed_metrics: [3.7181946225131273]
+computed_metrics: [0.9950498726377871]
+About to make parity plot for test  2
+||||||||||||||||Directory parity_plot Created||||||||||||||||
+About to make residual plot for test  2
+||||||||||||||||Directory residual_plot Created||||||||||||||||

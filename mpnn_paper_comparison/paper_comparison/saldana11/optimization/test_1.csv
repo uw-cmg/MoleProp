@@ -1,0 +1,127 @@
+,Unnamed: 0,compound,flashpoint,pure substance,smiles,source
+0,0,"(2E)-but-2-ene-1,4-diol",401.0,1,OC/C=C/CO,saldana11
+7,7,2-ethylhexan-1-ol,346.0,1,CCCCC(CC)CO,saldana11
+23,23,3-methylbutan-1-ol,316.0,1,OCCC(C)C,saldana11
+25,25,3-methylheptan-3-ol,327.0,1,CCCCC(C)(O)CC,saldana11
+34,34,"butane-1,2-diol",363.0,1,CCC(O)CO,saldana11
+35,35,"butane-1,3-diol",382.0,1,OCCC(C)O,saldana11
+37,37,"butane-2,3-diol",358.0,1,CC(O)C(C)O,saldana11
+40,40,ethanol,286.0,1,CCO,saldana11
+48,48,methanol,284.0,1,CO,saldana11
+53,53,pentan-1-ol,330.0,1,CCCCCO,saldana11
+62,62,"propane-1,2-diol",372.0,1,OCC(C)O,saldana11
+68,68,(1E)-prop-1-en-1-ylbenzene,325.0,1,C/C=C/c1ccccc1,saldana11
+69,69,(1Z)-prop-1-enylbenzene,311.0,1,C/C=C\c1ccccc1,saldana11
+77,77,1-ethyl-4-methylbenzene,309.0,1,CCc1ccc(C)cc1,saldana11
+82,82,1-methyl-4-ethenylbenzene,319.0,1,C=Cc1ccc(C)cc1,saldana11
+89,89,"1,2,3-trimethylbenzene",317.0,1,Cc1cccc(C)c1C,saldana11
+93,93,"1,2,4-trimethylbenzene",319.0,1,Cc1ccc(C)c(C)c1,saldana11
+97,97,"1,3-diphenylbenzene",464.0,1,c1ccc(cc1)c1cccc(c1)c1ccccc1,saldana11
+98,98,"1,3-xylene",298.0,1,Cc1cccc(C)c1,saldana11
+101,101,"1,3,5-trimethylbenzene",318.0,1,Cc1cc(C)cc(C)c1,saldana11
+103,103,"1,4-diisopropylbenzene",349.0,1,CC(C)c1ccc(cc1)C(C)C,saldana11
+104,104,"1,4-dimethylbenzene",298.0,1,Cc1ccc(C)cc1,saldana11
+106,106,"2-ethyl-1,4-dimethylbenzene",329.0,1,CCc1cc(C)ccc1C,saldana11
+129,129,nonylbenzene,372.0,1,CCCCCCCCCc1ccccc1,saldana11
+130,130,octylbenzene,380.0,1,CCCCCCCCc1ccccc1,saldana11
+132,132,pentylbenzene,338.0,1,CCCCCc1ccccc1,saldana11
+135,135,tetralin,350.0,1,C1CCc2ccccc2C1,saldana11
+138,138,(2-methylphenyl)methanol,377.0,1,OCc1ccccc1C,saldana11
+145,145,2-furylmethanol,356.0,1,OCc1ccco1,saldana11
+146,146,2-methylphenol,354.0,1,Cc1ccccc1O,saldana11
+151,151,3-ethylphenol,367.0,1,CCc1cccc(O)c1,saldana11
+153,153,3-phenylpropan-1-ol,373.0,1,OCCCc1ccccc1,saldana11
+154,154,4-(2-methylbutan-2-yl)phenol,384.0,1,CCC(C)(C)c1ccc(O)cc1,saldana11
+156,156,4-ethylphenol,373.0,1,CCc1ccc(O)cc1,saldana11
+157,157,4-methylphenol,368.0,1,Cc1ccc(O)cc1,saldana11
+167,167,di-n-butyl phthalate,430.0,1,CCCCOC(=O)c1ccccc1C(=O)OCCCC,saldana11
+169,169,di-n-hexyl phthalate,466.0,1,CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC,saldana11
+180,180,nonylphenol,411.0,1,CCCCCCCCCc1ccccc1O,saldana11
+183,183,"xylen-2,4-ol",368.0,1,Cc1ccc(O)c(C)c1,saldana11
+186,186,1-methylcyclohexan-1-ol,338.0,1,CC1(O)CCCCC1,saldana11
+189,189,2-(4-methylcyclohex-3-en-1-yl)propan-2-ol,367.0,1,CC1=CCC(CC1)C(C)(C)O,saldana11
+190,190,4-methyl-cyclohexane-methanol,354.0,1,OCC1CCC(C)CC1,saldana11
+195,195,cyclohexanol,341.0,1,OC1CCCCC1,saldana11
+198,198,"dimethyl-1,4-cyclohexanedicarboxylate",383.0,1,COC(=O)C1CCC(CC1)C(=O)OC,saldana11
+207,207,2-ethylhexyl ethanoate,344.0,1,CCCCC(CC)COC(=O)C,saldana11
+215,215,butyl butanoate,326.0,1,CCCCOC(=O)CCC,saldana11
+225,225,dibutyl decanedioate,451.0,1,CCCCOC(=O)CCCCCCCCC(=O)OCCCC,saldana11
+228,228,diethyl carbonate,298.0,1,CCOC(=O)OCC,saldana11
+237,237,dodecyl propanoate,421.0,1,CCCCCCCCCCCCOC(=O)CC,saldana11
+239,239,ethenyl ethanoate,265.0,1,CC(=O)OC=C,saldana11
+242,242,"ethyl (2E,4E)-hexa-2,4-dienoate",342.0,1,CCOC(=O)/C=C/C=C/C,saldana11
+249,249,ethyl (9Z)-octadec-9-enoate,365.0,1,CCCCCCCC/C=C\CCCCCCCC(=O)OCC,saldana11
+252,252,"ethyl buta-2,3-dienoate",320.0,1,CCOC(=O)C=C=C,saldana11
+256,256,ethyl eicosanoate,444.0,1,CCCCCCCCCCCCCCCCCCCC(=O)OCC,saldana11
+260,260,ethyl heptanoate,347.0,1,CCCCCCC(=O)OCC,saldana11
+265,265,ethyl methanoate,253.0,1,CCOC=O,saldana11
+266,266,ethyl nonanoate,367.0,1,CCCCCCCCC(=O)OCC,saldana11
+267,267,ethyl octadecanoate,441.0,1,CCCCCCCCCCCCCCCCCC(=O)OCC,saldana11
+277,277,heptyl ethanoate,349.0,1,CCCCCCCOC(=O)C,saldana11
+283,283,isobutyl ethanoate,291.0,1,CC(C)COC(=O)C,saldana11
+284,284,isobutyl methanoate,302.0,1,O=COCC(C)C,saldana11
+286,286,isobutyl propanoate,320.0,1,CCC(=O)OCC(C)C,saldana11
+290,290,isopentyl hexanoate,358.0,1,CCCCCC(=O)OCCC(C)C,saldana11
+291,291,isopentyl isopentanoate,345.0,1,CC(C)CCOC(=O)CC(C)C,saldana11
+297,297,methyl (11Z)-octadec-11-enoate,335.0,1,CCCCCC/C=C\CCCCCCCCCC(=O)OC,saldana11
+306,306,methyl (3Z)-non-3-enoate,361.0,1,CCCCC/C=C\CC(=O)OC,saldana11
+307,307,"methyl (4Z,7Z,10Z,13Z,16Z,19Z)-docosa-4,7,10,13,16,19-hexaenoate",366.0,1,C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)OC,saldana11
+310,310,"methyl (6E,9E,12Z)-octadeca-6,9,12-trienoate",335.0,1,CCCCC/C=C\C/C=C/C/C=C/CCCCC(=O)OC,saldana11
+312,312,"methyl (6E,9Z,12Z)-octadeca-6,9,12-trienoate",335.0,1,CCCCC/C=C\C/C=C\C/C=C/CCCCC(=O)OC,saldana11
+321,321,methyl 10-undecenoate,373.0,1,C=CCCCCCCCCC(=O)OC,saldana11
+324,324,methyl but-3-enoate,293.0,1,COC(=O)CC=C,saldana11
+348,348,n-propyl methanoate,270.0,1,CCCOC=O,saldana11
+356,356,pentyl butanoate,345.0,1,CCCCCOC(=O)CCC,saldana11
+364,364,tert-butyl 2-methylprop-2-enoate,300.0,1,CC(=C)C(=O)OC(C)(C)C,saldana11
+370,370,undecyl ethanoate,398.0,1,CCCCCCCCCCCOC(=O)C,saldana11
+372,372,undecyl propanoate,410.0,1,CCCCCCCCCCCOC(=O)CC,saldana11
+378,378,"1,1-dimethylcyclohexane",280.0,1,CC1(C)CCCCC1,saldana11
+383,383,3-methylidene-6-(propan-2-yl)cyclohex-1-ene,322.0,1,C=C1CCC(C=C1)C(C)C,saldana11
+386,386,5-ethylidene-2-norbornene,311.0,1,CC=C1CC2CC1C=C2,saldana11
+387,387,"6,6-dimethyl-4-methylidenebicyclo[3.1.1]heptane",304.0,1,C=C1CCC2CC1C2(C)C,saldana11
+392,392,"cis-1,2-dimethylcyclopentane",269.0,1,C[C@@H]1CCC[C@@H]1C,saldana11
+410,410,ethylcyclohexane,295.0,1,CCC1CCCCC1,saldana11
+412,412,isopropylcyclohexane,308.0,1,CC(C)C1CCCCC1,saldana11
+414,414,methylcyclohexane,267.0,1,CC1CCCCC1,saldana11
+416,416,methylcyclopentane,246.0,1,CC1CCCC1,saldana11
+424,424,tert-butylcyclohexane,315.0,1,CC(C)(C)C1CCCCC1,saldana11
+428,428,trans-decalin,325.0,1,C1CC[C@@H]2CCCC[C@H]2C1,saldana11
+432,432,(2E)-3-heptene,267.0,1,CCC/C=C/CC,saldana11
+435,435,(2E)-hept-2-ene,272.0,1,CCCC/C=C/C,saldana11
+439,439,(2Z)-4-methylpent-2-ene,237.0,1,C/C=C\C(C)C,saldana11
+441,441,(2Z)-hept-2-ene,265.0,1,CCCC/C=C\C,saldana11
+456,456,1-methylcyclopent-1-ene,256.0,1,CC1=CCCC1,saldana11
+458,458,2-ethylbut-1-ene,247.0,1,CCC(=C)CC,saldana11
+465,465,2-methylpent-1-ene,247.0,1,CCCC(=C)C,saldana11
+466,466,2-methylpent-2-ene,250.0,1,CCC=C(C)C,saldana11
+469,469,"2,3-dimethylbut-2-ene",257.0,1,CC(=C(C)C)C,saldana11
+484,484,3-methylcyclohex-1-ene,270.0,1,CC1CCCC=C1,saldana11
+491,491,4-methylhex-1-ene,258.0,1,CC(CC=C)CC,saldana11
+492,492,4-methylpent-1-ene,242.0,1,C=CCC(C)C,saldana11
+495,495,5-methylhex-1-ene,263.0,1,C=CCCC(C)C,saldana11
+498,498,"buta-1,3-diene",197.0,1,C=CC=C,saldana11
+499,499,cycloheptene,267.0,1,C1CCC=CCC1,saldana11
+507,507,heptadec-1-ene,408.0,1,CCCCCCCCCCCCCCCC=C,saldana11
+511,511,isoprene,219.0,1,C=CC(=C)C,saldana11
+514,514,oct-1-ene,281.0,1,CCCCCCC=C,saldana11
+515,515,"octa-1,7-diene",282.0,1,C=CCCCCC=C,saldana11
+536,536,"2,2,3,3-tetramethylbutane",278.0,1,CC(C)(C)C(C)(C)C,saldana11
+543,543,"2,2,4,4-tetramethylhexane",304.0,1,CCC(C)(C)CC(C)(C)C,saldana11
+548,548,"2,3-dimethylbutane",244.0,1,CC(C)C(C)C,saldana11
+557,557,"2,3,4-trimethylhexane",288.0,1,CCC(C)C(C)C(C)C,saldana11
+558,558,"2,3,4-trimethylpentane",273.0,1,CC(C)C(C)C(C)C,saldana11
+569,569,"2,5-dimethylheptane",288.0,1,CCC(C)CCC(C)C,saldana11
+570,570,"2,5-dimethylhexane",271.0,1,CC(C)CCC(C)C,saldana11
+573,573,"2,6,10,15,19,23-hexamethyltetracosane",490.0,1,CC(CCCCC(C)CCCC(C)CCCC(C)C)CCCC(C)CCCC(C)C,saldana11
+575,575,3-ethyl-2-methylpentane,276.0,1,CCC(CC)C(C)C,saldana11
+576,576,"3-ethyl-2,2-dimethylhexane",311.0,1,CCCC(CC)C(C)(C)C,saldana11
+579,579,"3-ethyl-2,3,4-trimethylpentane",304.0,1,CCC(C)(C(C)C)C(C)C,saldana11
+581,581,3-ethyl-3-methylheptane,314.0,1,CCCCC(C)(CC)CC,saldana11
+584,584,3-ethyl-5-methylheptane,304.0,1,CCC(C)CC(CC)CC,saldana11
+585,585,3-ethylhexane,278.0,1,CCCC(CC)CC,saldana11
+591,591,3-methylpentane,241.0,1,CCC(C)CC,saldana11
+592,592,"3,3-diethylpentane",294.0,1,CCC(CC)(CC)CC,saldana11
+596,596,"3,3,4-trimethylhexane",288.0,1,CCC(C)C(C)(C)CC,saldana11
+608,608,4-methylnonane,311.0,1,CCCCCC(C)CCC,saldana11
+621,621,n-hexane,252.0,1,CCCCCC,saldana11
+626,626,n-pentadecane,388.0,1,CCCCCCCCCCCCCCC,saldana11

@@ -1,0 +1,59 @@
+==========Hyperparameter==========
+{'nb_epoch': 1, 'n_tasks': 1, 'batch_size': 8, 'graph_conv_layers': [64, 64], 'dense_layer_size': 128, 'learning_rate': 0.005, 'mode': 'regression'}
+|||||||||||||||||||||Loading ../optimization/train_0.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 166
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:didier12, Number of data: [166]
+-----------------------------------------------------
+Mean: 316.4421686746989
+-----------------------------------------------------
+Std: 44.90679909507374
+=====================================================
+
+|||||||||||||||||||||Loading ../optimization/test_0.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 44
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:didier12, Number of data: [44]
+-----------------------------------------------------
+Mean: 309.24545454545455
+-----------------------------------------------------
+Std: 43.59550838046706
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/train_0.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.230 s
+TIMING: dataset construction took 0.276 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from ../optimization/test_0.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.055 s
+TIMING: dataset construction took 0.071 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.046 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.013 s
+Loading dataset from disk.
+computed_metrics: [16.189372634644567]
+computed_metrics: [13.282460353947032]
+computed_metrics: [0.8687280528199521]
+computed_metrics: [1.4398095876521775]
+computed_metrics: [0.9991656784570933]
+About to make parity plot for test  0
+||||||||||||||||Directory parity_plot Created||||||||||||||||
+About to make residual plot for test  0
+||||||||||||||||Directory residual_plot Created||||||||||||||||

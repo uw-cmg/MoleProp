@@ -1,0 +1,733 @@
+|||||||||||||||||||||Loading le15.csv|||||||||||||||||||||||
+||||||||||||||||Directory dataset_info Created||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 8843
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:le15, Number of data: [8843]
+-----------------------------------------------------
+Mean: 371.39749225376
+-----------------------------------------------------
+Std: 74.12969546505596
+=====================================================
+
+=====================================================
+Full_dataset info:
+-----------------------------------------------------
+Dataset length is: 7495
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:le15, Number of data: [7495]
+-----------------------------------------------------
+Mean: 381.1924904603069
+-----------------------------------------------------
+Std: 73.93122933930316
+=====================================================
+
+==========Fitting model 1/45========== True
+hyperparameters: {'nb_epoch': 70, 'n_tasks': 1, 'batch_size': 32, 'n_atom_feat': 75, 'n_pair_feat': 14, 'T': 1, 'M': 1, 'dropout': 0.0, 'learning_rate': 0.005, 'mode': 'regression'}
+
+----------Conducting CV 0----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 8.636 s
+TIMING: dataset construction took 10.060 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 2.056 s
+TIMING: dataset construction took 2.379 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.910 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.503 s
+Loading dataset from disk.
+computed_metrics: [33.73371537125749]
+train score:
+computed_metrics: [27.91727004279823]
+
+----------Conducting CV 1----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 8.109 s
+TIMING: dataset construction took 9.099 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.899 s
+TIMING: dataset construction took 2.091 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.395 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.308 s
+Loading dataset from disk.
+computed_metrics: [31.797770664619087]
+train score:
+computed_metrics: [30.480897457313915]
+
+----------Conducting CV 2----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 8.038 s
+TIMING: dataset construction took 9.058 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.981 s
+TIMING: dataset construction took 2.198 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.396 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.286 s
+Loading dataset from disk.
+computed_metrics: [29.88310380681023]
+train score:
+computed_metrics: [27.83087151538992]
+
+----------Conducting CV 3----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 8.000 s
+TIMING: dataset construction took 9.019 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.978 s
+TIMING: dataset construction took 2.175 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.368 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.301 s
+Loading dataset from disk.
+computed_metrics: [29.25588922137004]
+train score:
+computed_metrics: [28.368225521964142]
+
+----------Conducting CV 4----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 8.034 s
+TIMING: dataset construction took 8.998 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.911 s
+TIMING: dataset construction took 2.129 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.347 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.289 s
+Loading dataset from disk.
+computed_metrics: [32.69697291866806]
+train score:
+computed_metrics: [26.3068294558065]
+Model 1/45, Metric mean-rms_score, Validation set 0: 31.473490, Train set 0: 28.180819
+	best_validation_score so far: 31.473490
+==========Fitting model 2/45========== True
+hyperparameters: {'nb_epoch': 70, 'n_tasks': 1, 'batch_size': 32, 'n_atom_feat': 75, 'n_pair_feat': 14, 'T': 1, 'M': 1, 'dropout': 0.0, 'learning_rate': 0.0005, 'mode': 'regression'}
+
+----------Conducting CV 0----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 8.024 s
+TIMING: dataset construction took 8.993 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 2.039 s
+TIMING: dataset construction took 2.267 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.362 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.306 s
+Loading dataset from disk.
+computed_metrics: [31.566274526622813]
+train score:
+computed_metrics: [28.012545967893885]
+
+----------Conducting CV 1----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.954 s
+TIMING: dataset construction took 8.976 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.976 s
+TIMING: dataset construction took 2.191 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.385 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.324 s
+Loading dataset from disk.
+computed_metrics: [27.47714829069601]
+train score:
+computed_metrics: [26.947818650617698]
+
+----------Conducting CV 2----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.724 s
+TIMING: dataset construction took 8.757 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.906 s
+TIMING: dataset construction took 2.100 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.401 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.277 s
+Loading dataset from disk.
+computed_metrics: [27.269961213478705]
+train score:
+computed_metrics: [26.379641516793406]
+
+----------Conducting CV 3----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.730 s
+TIMING: dataset construction took 8.764 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.941 s
+TIMING: dataset construction took 2.155 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.363 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.301 s
+Loading dataset from disk.
+computed_metrics: [27.305179334446034]
+train score:
+computed_metrics: [25.804413226559696]
+
+----------Conducting CV 4----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.819 s
+TIMING: dataset construction took 8.824 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.943 s
+TIMING: dataset construction took 2.154 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.352 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.302 s
+Loading dataset from disk.
+computed_metrics: [31.76347165848551]
+train score:
+computed_metrics: [25.648688261259903]
+Model 2/45, Metric mean-rms_score, Validation set 1: 29.076407, Train set 1: 26.558622
+	best_validation_score so far: 29.076407
+==========Fitting model 3/45========== True
+hyperparameters: {'nb_epoch': 70, 'n_tasks': 1, 'batch_size': 32, 'n_atom_feat': 75, 'n_pair_feat': 14, 'T': 1, 'M': 1, 'dropout': 0.0, 'learning_rate': 0.001, 'mode': 'regression'}
+
+----------Conducting CV 0----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.647 s
+TIMING: dataset construction took 8.654 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.943 s
+TIMING: dataset construction took 2.168 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.331 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.298 s
+Loading dataset from disk.
+computed_metrics: [31.111024723450328]
+train score:
+computed_metrics: [26.31266629887163]
+
+----------Conducting CV 1----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.758 s
+TIMING: dataset construction took 8.766 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.946 s
+TIMING: dataset construction took 2.141 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.397 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.300 s
+Loading dataset from disk.
+computed_metrics: [26.97922625366722]
+train score:
+computed_metrics: [25.756493553321487]
+
+----------Conducting CV 2----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.722 s
+TIMING: dataset construction took 8.928 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.883 s
+TIMING: dataset construction took 2.106 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.577 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.283 s
+Loading dataset from disk.
+computed_metrics: [29.364782284671087]
+train score:
+computed_metrics: [27.238845677762658]
+
+----------Conducting CV 3----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.723 s
+TIMING: dataset construction took 8.937 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.891 s
+TIMING: dataset construction took 2.088 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.581 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.290 s
+Loading dataset from disk.
+computed_metrics: [29.194283570591555]
+train score:
+computed_metrics: [29.026610505153826]
+
+----------Conducting CV 4----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.799 s
+TIMING: dataset construction took 8.982 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.932 s
+TIMING: dataset construction took 2.130 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.536 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.290 s
+Loading dataset from disk.
+computed_metrics: [31.582918031663763]
+train score:
+computed_metrics: [24.862263799967256]
+Model 3/45, Metric mean-rms_score, Validation set 2: 29.646447, Train set 2: 26.639376
+	best_validation_score so far: 29.076407
+==========Fitting model 4/45========== True
+hyperparameters: {'nb_epoch': 70, 'n_tasks': 1, 'batch_size': 32, 'n_atom_feat': 75, 'n_pair_feat': 14, 'T': 1, 'M': 1, 'dropout': 0.2, 'learning_rate': 0.005, 'mode': 'regression'}
+
+----------Conducting CV 0----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.637 s
+TIMING: dataset construction took 8.864 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.939 s
+TIMING: dataset construction took 2.190 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.583 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.361 s
+Loading dataset from disk.
+computed_metrics: [33.33854998980736]
+train score:
+computed_metrics: [27.324463316807616]
+
+----------Conducting CV 1----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.688 s
+TIMING: dataset construction took 8.939 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.907 s
+TIMING: dataset construction took 2.106 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.572 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.307 s
+Loading dataset from disk.
+computed_metrics: [30.02118359264374]
+train score:
+computed_metrics: [28.726073771376996]
+
+----------Conducting CV 2----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.762 s
+TIMING: dataset construction took 9.008 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.867 s
+TIMING: dataset construction took 2.083 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.614 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.297 s
+Loading dataset from disk.
+computed_metrics: [30.456928884140382]
+train score:
+computed_metrics: [27.639394935707728]
+
+----------Conducting CV 3----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.703 s
+TIMING: dataset construction took 8.934 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.915 s
+TIMING: dataset construction took 2.119 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.596 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.310 s
+Loading dataset from disk.
+computed_metrics: [29.2473132803568]
+train score:
+computed_metrics: [28.413074347678187]
+
+----------Conducting CV 4----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.830 s
+TIMING: dataset construction took 9.056 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.953 s
+TIMING: dataset construction took 2.213 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.560 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.343 s
+Loading dataset from disk.
+computed_metrics: [35.095748318214554]
+train score:
+computed_metrics: [28.469866161734792]
+Model 4/45, Metric mean-rms_score, Validation set 3: 31.631945, Train set 3: 28.114575
+	best_validation_score so far: 29.076407
+==========Fitting model 5/45========== True
+hyperparameters: {'nb_epoch': 70, 'n_tasks': 1, 'batch_size': 32, 'n_atom_feat': 75, 'n_pair_feat': 14, 'T': 1, 'M': 1, 'dropout': 0.2, 'learning_rate': 0.0005, 'mode': 'regression'}
+
+----------Conducting CV 0----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.493 s
+TIMING: dataset construction took 8.573 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.915 s
+TIMING: dataset construction took 2.153 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.384 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.338 s
+Loading dataset from disk.
+computed_metrics: [29.81461897638146]
+train score:
+computed_metrics: [25.57216347490319]
+
+----------Conducting CV 1----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.756 s
+TIMING: dataset construction took 8.918 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.878 s
+TIMING: dataset construction took 2.098 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.505 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.303 s
+Loading dataset from disk.
+computed_metrics: [26.495774865041632]
+train score:
+computed_metrics: [26.36408402390973]
+
+----------Conducting CV 2----------
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+Featurizing sample 2000
+Featurizing sample 3000
+Featurizing sample 4000
+TIMING: featurizing shard 0 took 7.551 s
+TIMING: dataset construction took 8.771 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from valid_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+Featurizing sample 1000
+TIMING: featurizing shard 0 took 1.834 s
+TIMING: dataset construction took 2.050 s
+Loading dataset from disk.
+TIMING: dataset construction took 1.584 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.308 s
+Loading dataset from disk.

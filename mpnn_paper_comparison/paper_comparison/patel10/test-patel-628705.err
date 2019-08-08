@@ -1,0 +1,91 @@
+/var/spool/slurmd/job628705/slurm_script: line 26: activate: No such file or directory
+/srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+WARNING: Logging before flag parsing goes to stderr.
+W0709 18:54:13.288646 140283153028928 deprecation_wrapper.py:119] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/deepchem/models/tensorgraph/tensor_graph.py:715: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+W0709 18:54:13.521415 140283153028928 deprecation.py:506] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/deepchem/models/tensorgraph/model_ops.py:261: calling RandomUniform.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+W0709 18:54:13.530783 140283153028928 deprecation.py:506] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/deepchem/models/tensorgraph/model_ops.py:450: calling Constant.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+W0709 18:54:13.568516 140283153028928 deprecation_wrapper.py:119] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/tensorflow/python/autograph/converters/directives.py:117: The name tf.nn.xw_plus_b is deprecated. Please use tf.compat.v1.nn.xw_plus_b instead.
+
+W0709 18:54:13.570491 140283153028928 deprecation_wrapper.py:119] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/tensorflow/python/autograph/converters/directives.py:117: The name tf.segment_sum is deprecated. Please use tf.math.segment_sum instead.
+
+W0709 18:54:14.676925 140283153028928 deprecation_wrapper.py:119] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/deepchem/models/tensorgraph/tensor_graph.py:728: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-07-09 18:54:14.678115: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2019-07-09 18:54:14.700766: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2299925000 Hz
+2019-07-09 18:54:14.701644: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x56444104b740 executing computations on platform Host. Devices:
+2019-07-09 18:54:14.702226: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): <undefined>, <undefined>
+W0709 18:54:14.707558 140283153028928 deprecation_wrapper.py:119] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/deepchem/models/tensorgraph/optimizers.py:76: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+W0709 18:54:15.798044 140283153028928 deprecation_wrapper.py:119] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/deepchem/models/tensorgraph/tensor_graph.py:1013: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+W0709 18:54:15.799207 140283153028928 deprecation_wrapper.py:119] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/deepchem/models/tensorgraph/tensor_graph.py:1013: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-07-09 18:54:15.961765: W tensorflow/compiler/jit/mark_for_compilation_pass.cc:1412] (One-time warning): Not using XLA:CPU for cluster because envvar TF_XLA_FLAGS=--tf_xla_cpu_global_jit was not set.  If you want XLA:CPU, either set that envvar, or use experimental_jit_scope to enable XLA:CPU.  To confirm that XLA is active, pass --vmodule=xla_compilation_cache=1 (as a proper command-line flag, not via TF_XLA_FLAGS) or set the envvar XLA_FLAGS=--xla_hlo_profile.
+W0709 18:54:15.981124 140283153028928 deprecation_wrapper.py:119] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/deepchem/models/tensorgraph/tensor_graph.py:749: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-07-09 18:54:16.297317: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 0, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:54:16.313149: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 1, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:54:16.378532: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:502] remapper failed: Invalid argument: The graph couldn't be sorted in topological order.
+2019-07-09 18:54:16.384116: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:502] arithmetic_optimizer failed: Invalid argument: The graph couldn't be sorted in topological order.
+2019-07-09 18:54:16.389353: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 0, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:54:16.398938: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 1, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:55:27.540463: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 0, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:55:27.554443: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 1, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:55:27.611587: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:502] remapper failed: Invalid argument: The graph couldn't be sorted in topological order.
+2019-07-09 18:55:27.616318: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:502] arithmetic_optimizer failed: Invalid argument: The graph couldn't be sorted in topological order.
+2019-07-09 18:55:27.621507: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 0, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:55:27.630043: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 1, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:56:38.818213: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 0, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:56:38.834191: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 1, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:56:38.896427: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:502] remapper failed: Invalid argument: The graph couldn't be sorted in topological order.
+2019-07-09 18:56:38.901373: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:502] arithmetic_optimizer failed: Invalid argument: The graph couldn't be sorted in topological order.
+2019-07-09 18:56:38.906360: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 0, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:56:38.915151: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 1, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:57:49.848919: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 0, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:57:49.863562: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 1, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:57:49.926334: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:502] remapper failed: Invalid argument: The graph couldn't be sorted in topological order.
+2019-07-09 18:57:49.931788: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:502] arithmetic_optimizer failed: Invalid argument: The graph couldn't be sorted in topological order.
+2019-07-09 18:57:49.937015: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 0, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:57:49.946311: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 1, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:59:01.236275: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 0, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:59:01.252358: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 1, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:59:01.314629: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:502] remapper failed: Invalid argument: The graph couldn't be sorted in topological order.
+2019-07-09 18:59:01.320371: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:502] arithmetic_optimizer failed: Invalid argument: The graph couldn't be sorted in topological order.
+2019-07-09 18:59:01.325861: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 0, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-09 18:59:01.334853: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 1, topological sort failed with message: The graph couldn't be sorted in topological order.
+../../util/workflow.py:604: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  dataset['residual'] = residual
+../../util/workflow.py:604: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  dataset['residual'] = residual
+../../util/workflow.py:604: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  dataset['residual'] = residual
+../../util/workflow.py:604: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  dataset['residual'] = residual
+../../util/workflow.py:604: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  dataset['residual'] = residual

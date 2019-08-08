@@ -1,0 +1,61 @@
+,Unnamed: 0,compound,flashpoint,pure substance,smiles,source
+2,2,p -xylene,298.2,1,Cc1ccc(C)cc1,godinho11
+3,3,m -xylene,298.2,1,Cc1cccc(C)c1,godinho11
+4,4,o -xylene,303.2,1,Cc1ccccc1C,godinho11
+5,5,cumene,304.2,1,CC(C)c1ccccc1,godinho11
+6,6,propylbenzene,315.2,1,CCCc1ccccc1,godinho11
+7,7,m -ethyltoluene,311.2,1,CCc1cccc(C)c1,godinho11
+8,8,p -ethyltoluene,309.2,1,CCc1ccc(C)cc1,godinho11
+9,9,"1,3,5-trimethylbenzene",317.2,1,Cc1cc(C)cc(C)c1,godinho11
+10,10,o -ethyltoluene,312.2,1,CCc1ccccc1C,godinho11
+11,11,tert -butylbenzene,317.2,1,CC(C)(C)c1ccccc1,godinho11
+12,12,"1,2,4-trimethylbenzene",318.7,1,Cc1ccc(C)c(C)c1,godinho11
+13,13,sec -butylbenzene,325.0,1,CCC(C)c1ccccc1,godinho11
+15,15,isobutylbenzene,323.2,1,CC(C)Cc1ccccc1,godinho11
+16,16,"1,2,3-trimethylbenzene",324.2,1,Cc1cccc(C)c1C,godinho11
+17,17,p -cymene,320.2,1,Cc1ccc(C(C)C)cc1,godinho11
+18,18,o -cymene,323.2,1,Cc1ccccc1C(C)C,godinho11
+19,19,m -diethylbenzene,324.2,1,CCc1cccc(CC)c1,godinho11
+20,20,m -propyltoluene,325.0,1,CCCc1cccc(C)c1,godinho11
+21,21,butylbenzene,331.2,1,CCCCc1ccccc1,godinho11
+22,22,p -propyltoluene,329.5,1,CCCc1ccc(C)cc1,godinho11
+25,25,p -diethylbenzene,328.2,1,CCc1ccc(CC)cc1,godinho11
+26,26,o -propyltoluene,330.9,1,CCCc1ccccc1C,godinho11
+27,27,neopentylbenzene,323.2,1,CC(C)(C)Cc1ccccc1,godinho11
+28,28,1-tert -butyl-3-methylbenzene,333.7,1,Cc1cccc(C(C)(C)C)c1,godinho11
+29,29,2-ethyl-p -xylene,329.2,1,CCc1cc(C)ccc1C,godinho11
+30,30,"(1,2-dimethylpropyl)benzene",330.1,1,CC(C)C(C)c1ccccc1,godinho11
+31,31,"1-ethyl-2,4-dimethylbenzene",330.2,1,CCc1ccc(C)cc1C,godinho11
+33,33,"2-ethyl-1,3-dimethylbenzene",335.1,1,CCc1c(C)cccc1C,godinho11
+35,35,4-tert -butyltoluene,327.2,1,Cc1ccc(C(C)(C)C)cc1,godinho11
+36,36,2-phenyl-2-methylbutane,332.5,1,CCC(C)(C)c1ccccc1,godinho11
+37,37,m -ethylcumene,336.0,1,CCc1cccc(C(C)C)c1,godinho11
+38,38,"1-ethyl-2,3-dimethylbenzene",338.2,1,CCc1cccc(C)c1C,godinho11
+39,39,1-sec -butyl-3-methylbenzene,336.2,1,CCC(C)c1cccc(C)c1,godinho11
+40,40,1-isobutyl-2-methylbenzene,341.8,1,Cc1ccccc1CC(C)C,godinho11
+41,41,1-isobutyl-4-methylbenzene,340.5,1,Cc1ccc(CC(C)C)cc1,godinho11
+42,42,"1,4-dimethyl-2-isopropylbenzene",337.8,1,Cc1ccc(C)c(C(C)C)c1,godinho11
+43,43,1-sec -butyl-4-methylbenzene,338.0,1,CCC(C)c1ccc(C)cc1,godinho11
+44,44,(2-methylbutyl)benzene,337.2,1,CCC(C)Cc1ccccc1,godinho11
+45,45,p -ethylcumene,338.9,1,CCc1ccc(C(C)C)cc1,godinho11
+46,46,isopentylbenzene,335.2,1,CC(C)CCc1ccccc1,godinho11
+47,47,sec -pentylbenzene,333.8,1,CCCC(C)c1ccccc1,godinho11
+48,48,"1,3-dimethyl-4-isopropylbenzene",340.3,1,Cc1ccc(C(C)C)c(C)c1,godinho11
+50,50,1-ethyl-3-propylbenzene,342.8,1,CCCc1cccc(CC)c1,godinho11
+51,51,"1,2-dimethyl-4-isopropylbenzene",341.2,1,Cc1ccc(C(C)C)cc1C,godinho11
+52,52,"1,3-diisopropylbenzene",349.9,1,CC(C)c1cccc(C(C)C)c1,godinho11
+53,53,1-butyl-3-methylbenzene,343.9,1,CCCCc1cccc(C)c1,godinho11
+54,54,"1,3-diethyl-4-methylbenzene",345.4,1,CCc1ccc(C)c(CC)c1,godinho11
+55,55,pentylbenzene,339.2,1,CCCCCc1ccccc1,godinho11
+57,57,"1-tert -butyl-3,5-dimethylbenzene",345.0,1,Cc1cc(C)cc(C(C)(C)C)c1,godinho11
+60,60,"1,4-diisopropylbenzene",349.2,1,CC(C)c1ccc(C(C)C)cc1,godinho11
+61,61,"1,2-dimethyl-3-propylbenzene",345.0,1,CCCc1cccc(C)c1C,godinho11
+62,62,1-tert -butyl-4-ethylbenzene,349.1,1,CCc1ccc(C(C)(C)C)cc1,godinho11
+63,63,(1-ethylbutyl)benzene,347.4,1,CCCC(CC)c1ccccc1,godinho11
+65,65,"1,2,3-triethylbenzene",352.0,1,CCc1cccc(CC)c1CC,godinho11
+67,67,hexylbenzene,356.7,1,CCCCCCc1ccccc1,godinho11
+68,68,"(2,4-dimethylpentyl)benzene",360.1,1,CC(C)CC(C)Cc1ccccc1,godinho11
+70,70,"1,4-di-tert -butylbenzene",370.1,1,CC(C)(C)c1ccc(C(C)(C)C)cc1,godinho11
+71,71,heptylbenzene,368.6,1,CCCCCCCc1ccccc1,godinho11
+72,72,(1-methylheptyl)benzene,373.2,1,CCCCCCC(C)c1ccccc1,godinho11
+73,73,"1,3-dibutylbenzene",382.4,1,CCCCc1cccc(CCCC)c1,godinho11

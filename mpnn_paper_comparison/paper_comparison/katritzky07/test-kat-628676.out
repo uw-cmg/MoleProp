@@ -1,0 +1,297 @@
+About to load
+|||||||||||||||||||||Loading katritzky07.csv|||||||||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 739
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:katritzky07, Number of data: [739]
+-----------------------------------------------------
+Mean: 308.2408660351827
+-----------------------------------------------------
+Std: 48.61634448424197
+=====================================================
+
+About to split
+=====================================================
+Full_dataset info:
+-----------------------------------------------------
+Dataset length is: 661
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:katritzky07, Number of data: [661]
+-----------------------------------------------------
+Mean: 309.53101361573374
+-----------------------------------------------------
+Std: 48.937105805074815
+=====================================================
+
+About to conduct cross validation
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.550 s
+TIMING: dataset construction took 0.624 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from test_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.140 s
+TIMING: dataset construction took 0.166 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.076 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.023 s
+Loading dataset from disk.
+computed_metrics: [18.573445805834545]
+computed_metrics: [11.722637127038501]
+computed_metrics: [0.8815777994885547]
+computed_metrics: [1.5076854864563733]
+computed_metrics: [0.9991429199459855]
+=====================================================
+CV_1_Train info:
+-----------------------------------------------------
+Dataset length is: 528
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:katritzky07, Number of data: [528]
+-----------------------------------------------------
+Mean: 308.842803030303
+-----------------------------------------------------
+Std: 47.64168826185012
+=====================================================
+
+=====================================================
+CV_1_Test info:
+-----------------------------------------------------
+Dataset length is: 133
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:katritzky07, Number of data: [133]
+-----------------------------------------------------
+Mean: 312.2631578947368
+-----------------------------------------------------
+Std: 53.88004279103975
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.527 s
+TIMING: dataset construction took 0.583 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from test_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.131 s
+TIMING: dataset construction took 0.152 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.070 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.021 s
+Loading dataset from disk.
+computed_metrics: [13.741062322987133]
+computed_metrics: [9.790638766096862]
+computed_metrics: [0.9230348513311528]
+computed_metrics: [1.880934821201189]
+computed_metrics: [0.9988610790009296]
+=====================================================
+CV_2_Train info:
+-----------------------------------------------------
+Dataset length is: 529
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:katritzky07, Number of data: [529]
+-----------------------------------------------------
+Mean: 309.7523629489603
+-----------------------------------------------------
+Std: 49.08798068392704
+=====================================================
+
+=====================================================
+CV_2_Test info:
+-----------------------------------------------------
+Dataset length is: 132
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:katritzky07, Number of data: [132]
+-----------------------------------------------------
+Mean: 308.6439393939394
+-----------------------------------------------------
+Std: 48.50279484758413
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.526 s
+TIMING: dataset construction took 0.579 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from test_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.130 s
+TIMING: dataset construction took 0.151 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.069 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.021 s
+Loading dataset from disk.
+computed_metrics: [15.226274165091287]
+computed_metrics: [11.672371888270677]
+computed_metrics: [0.8917235941208572]
+computed_metrics: [4.981880509431669]
+computed_metrics: [0.9964011301710565]
+=====================================================
+CV_3_Train info:
+-----------------------------------------------------
+Dataset length is: 529
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:katritzky07, Number of data: [529]
+-----------------------------------------------------
+Mean: 310.7882797731569
+-----------------------------------------------------
+Std: 49.66303666572326
+=====================================================
+
+=====================================================
+CV_3_Test info:
+-----------------------------------------------------
+Dataset length is: 132
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:katritzky07, Number of data: [132]
+-----------------------------------------------------
+Mean: 304.49242424242425
+-----------------------------------------------------
+Std: 45.74564530430404
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.526 s
+TIMING: dataset construction took 0.579 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from test_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.131 s
+TIMING: dataset construction took 0.153 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.070 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.022 s
+Loading dataset from disk.
+computed_metrics: [18.63819833644382]
+computed_metrics: [12.936199881533701]
+computed_metrics: [0.870227143073961]
+computed_metrics: [4.787090220924915]
+computed_metrics: [0.9956670916043368]
+=====================================================
+CV_4_Train info:
+-----------------------------------------------------
+Dataset length is: 529
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:katritzky07, Number of data: [529]
+-----------------------------------------------------
+Mean: 309.531190926276
+-----------------------------------------------------
+Std: 48.424060654632775
+=====================================================
+
+=====================================================
+CV_4_Test info:
+-----------------------------------------------------
+Dataset length is: 132
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:katritzky07, Number of data: [132]
+-----------------------------------------------------
+Mean: 309.530303030303
+-----------------------------------------------------
+Std: 51.13168740024155
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.526 s
+TIMING: dataset construction took 0.579 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from test_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.131 s
+TIMING: dataset construction took 0.153 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.070 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.022 s
+Loading dataset from disk.
+computed_metrics: [18.544679289638637]
+computed_metrics: [12.04114295638918]
+computed_metrics: [0.8325936731770377]
+computed_metrics: [2.0930388427578865]
+computed_metrics: [0.9988322014071533]
+=====================================================
+CV_5_Train info:
+-----------------------------------------------------
+Dataset length is: 529
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:katritzky07, Number of data: [529]
+-----------------------------------------------------
+Mean: 308.7391304347826
+-----------------------------------------------------
+Std: 49.85076212906363
+=====================================================
+
+=====================================================
+CV_5_Test info:
+-----------------------------------------------------
+Dataset length is: 132
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:katritzky07, Number of data: [132]
+-----------------------------------------------------
+Mean: 312.70454545454544
+-----------------------------------------------------
+Std: 45.12928648078865
+=====================================================
+
+train = (3.050125976154406, 0.9977808844258924)
+AAD = 3.7810707061627418
+AAD_list = [3.7038788632629, 3.185034317770841, 3.8406062712622124, 4.293702548154452, 3.882131530363303]
+RMSE = 16.944731983999084
+RMSE_list = [18.573445805834545, 13.741062322987133, 15.226274165091287, 18.63819833644382, 18.544679289638637]
+MAE = 11.632598123865785
+MAE_list = [11.722637127038501, 9.790638766096862, 11.672371888270677, 12.936199881533701, 12.04114295638918]
+R2 = 0.8798314122383127
+R2_list = [0.8815777994885547, 0.9230348513311528, 0.8917235941208572, 0.870227143073961, 0.8325936731770377]
+About to make parity plots
+About to make residual plot
+About to plot full data

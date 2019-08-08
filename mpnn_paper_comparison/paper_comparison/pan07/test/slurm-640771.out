@@ -1,0 +1,6 @@
+about to create output files
+file path right
+Traceback (most recent call last):
+  File "/srv/home/nkrakauer/moleprop/paper_comparison/pan07/test/test.py", line 3, in <module>
+    import workflow as wf
+ModuleNotFoundError: No module named 'workflow'

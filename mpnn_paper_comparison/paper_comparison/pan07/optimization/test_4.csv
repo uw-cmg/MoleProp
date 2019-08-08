@@ -1,0 +1,19 @@
+,Unnamed: 0,compound,flashpoint,pure substance,smiles,source
+0,0,Propane,169.0,1,CCC,pan07
+1,1,Butane,213.0,1,CCCC,pan07
+14,14,3-Methyl-3-ethylpentane,276.0,1,CCC(C)(CC)CC,pan07
+16,16,3-Methylheptane,279.0,1,CCCCC(C)CC,pan07
+23,23,"2,3-Dimethylheptane",288.0,1,CCCCC(C)C(C)C,pan07
+32,32,"2,4-Dimethylheptane",288.0,1,CCCC(C)CC(C)C,pan07
+34,34,"3,3,4-Trimethylhexane",288.0,1,CCC(C)C(C)(C)CC,pan07
+36,36,"2,2,3-Trimethylhexane",288.0,1,CCCC(C)C(C)(C)C,pan07
+56,56,2-Methylnonane,314.0,1,CCCCCCCC(C)C,pan07
+58,58,Dodecane,344.0,1,CCCCCCCCCCCC,pan07
+59,59,Tetradecane,372.0,1,CCCCCCCCCCCCCC,pan07
+63,63,2-Methylpentane,250.0,1,CCCC(C)C,pan07
+64,64,"2,3,3-Trimethylpentane",273.0,1,CCC(C)(C)C(C)C,pan07
+66,66,"2,2-Dimethylhexane",269.0,1,CCCCC(C)(C)C,pan07
+69,69,"4,4-Dimethylheptane",288.0,1,CCCC(C)(C)CCC,pan07
+83,83,"2,2,3,3-Tetramethylbutane",273.0,1,CC(C)(C)C(C)(C)C,pan07
+89,89,"2,2,3,4-Tetramethylhexane",304.0,1,CCC(C)C(C)C(C)(C)C,pan07
+91,91,Pentadecane,388.0,1,CCCCCCCCCCCCCCC,pan07

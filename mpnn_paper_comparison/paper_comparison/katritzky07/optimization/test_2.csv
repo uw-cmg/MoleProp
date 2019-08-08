@@ -1,0 +1,133 @@
+,Unnamed: 0,compound,flashpoint,pure substance,smiles,source
+3,3,3-chloropropene,241.0,1,C=CCCl,katritzky07
+31,31,propyl formate,273.0,1,CCCOC=O,katritzky07
+32,32,1-bromobutane,286.0,1,CCCCBr,katritzky07
+33,33,1-chlorobutane,261.0,1,CCCCCl,katritzky07
+38,38,"1,3-butanediol",394.0,1,CC(O)CCO,katritzky07
+39,39,n-butylamine,266.0,1,CCCCN,katritzky07
+46,46,allyl acetate,279.0,1,C=CCOC(C)=O,katritzky07
+61,61,tert-amyl alcohol (2-methyl-2-butanol),293.0,1,CCC(C)(C)O.CCC(C)(C)O,katritzky07
+65,65,"2,2-dimethyl-1,3-propanediol",380.0,1,CC(C)(CO)CO,katritzky07
+69,69,chlorobenzene,300.0,1,Clc1ccccc1,katritzky07
+78,78,mesityl oxide,298.0,1,CC(=O)C=C(C)C,katritzky07
+81,81,"2,3-dimethyl-2-butene",253.0,1,CC(C)=C(C)C,katritzky07
+87,87,2-methyl-1-pentene,247.0,1,C=C(C)CCC,katritzky07
+88,88,4-methyl-1-pentene,242.0,1,C=CCC(C)C,katritzky07
+90,90,cyclohexanol,341.0,1,OC1CCCCC1,katritzky07
+97,97,cyclohexylamine,301.0,1,NC1CCCCC1,katritzky07
+99,99,"2,3-dimethylbutane",244.0,1,CC(C)C(C)C,katritzky07
+102,102,3-methylpentane,241.0,1,CCC(C)CC,katritzky07
+112,112,o-cresol,354.0,1,Cc1ccccc1O,katritzky07
+122,122,acetophenone,355.0,1,CC(=O)c1ccccc1,katritzky07
+135,135,"2,4,4-trimethyl-1-pentene",268.0,1,C=C(C)CC(C)(C)C,katritzky07
+137,137,isobutyl isobutyrate,313.0,1,CC(C)COC(=O)C(C)C,katritzky07
+153,153,isophorone,357.0,1,CC1=CC(=O)CC(C)(C)C1,katritzky07
+159,159,p-cymene,320.0,1,Cc1ccc(C(C)C)cc1,katritzky07
+160,160,m-diethylbenzene,329.0,1,CCc1cccc(CC)c1,katritzky07
+161,161,o-diethyl benzene,322.0,1,CCc1ccccc1CC,katritzky07
+168,168,diethyl phthalate,433.0,1,CCOC(=O)c1ccccc1C(=O)OCC,katritzky07
+169,169,"1,3-diisopropylbenzene",349.0,1,CC(C)c1cccc(C(C)C)c1,katritzky07
+185,185,methyl isopropenyl ketone,286.0,1,C=C(C)C(C)=O,katritzky07
+191,191,2-bromobutane,294.0,1,CCC(C)Br,katritzky07
+195,195,sec-butylamine,264.0,1,CCC(C)N,katritzky07
+199,199,2-methyl-2-butene,228.0,1,CC=C(C)C,katritzky07
+201,201,"1,5-dichloropentane",299.0,1,ClCCCCCCl,katritzky07
+205,205,piperidine hydrochloride,338.0,1,C1CCNCC1.Cl,katritzky07
+211,211,methylcyclopentadiene,299.0,1,CC1=CC=CC1,katritzky07
+218,218,hexanal,298.0,1,CCCCCC=O,katritzky07
+225,225,2-ethyl-1-butanol,326.0,1,CCC(CC)CO,katritzky07
+228,228,2-methyl-1-pentanol,327.0,1,CCCC(C)CO,katritzky07
+231,231,"1,6-hexanediol",374.0,1,OCCCCCCO,katritzky07
+233,233,acetone,255.0,1,CC(C)=O,katritzky07
+236,236,butyl formate,291.0,1,CCCCOC=O,katritzky07
+263,263,"1,1-dichloroethane",267.0,1,CC(Cl)Cl,katritzky07
+264,264,"1,1-dichloroethylene",248.0,1,C=C(Cl)Cl,katritzky07
+268,268,"1,2-cyclohexanedione",357.0,1,O=C1CCCCC1=O,katritzky07
+275,275,"1,2-ethanediol",384.0,1,OCCO,katritzky07
+278,278,"1,2-propanediamine",306.0,1,CC(N)CN,katritzky07
+282,282,"1,3-dioxolane",275.0,1,C1COCO1,katritzky07
+283,283,"1,3-propanediamine",321.0,1,NCCCN,katritzky07
+289,289,"1,5-cyclooctadiene",305.0,1,C1=CCCC=CCC1,katritzky07
+292,292,"1,6-heptadiyne",282.0,1,C#CCCCC#C,katritzky07
+314,314,1-decyne,323.0,1,C#CCCCCCCCC,katritzky07
+320,320,1-heptanethiol,314.0,1,CCCCCCCS,katritzky07
+323,323,1-hexyne,253.0,1,C#CCCCC,katritzky07
+340,340,1-pentanethiol,291.0,1,CCCCCS,katritzky07
+341,341,1-pentyne,239.0,1,C#CCCC,katritzky07
+345,345,1-undecyne,338.0,1,C#CCCCCCCCCC,katritzky07
+348,348,"2,2-dimethylpropane",208.0,1,CC(C)(C)C,katritzky07
+350,350,"2,3-butanedione",279.0,1,CC(=O)C(C)=O,katritzky07
+352,352,"2,3-dihydro-5-methylfuran",261.0,1,CC1=CCCO1,katritzky07
+353,353,"2,3-dihydrofuran",249.0,1,C1=COCC1,katritzky07
+362,362,"2,5-dimethoxy-2,5-dihydrofuran",324.0,1,COC1C=CC(OC)O1,katritzky07
+370,370,2-butanethiol,250.0,1,CCC(C)S,katritzky07
+377,377,"2-chloro-1,3-butadiene",253.0,1,C=CC(=C)Cl,katritzky07
+380,380,2-chloropentane,273.0,1,CCCC(C)Cl,katritzky07
+383,383,2-cyclohexen-1-one,307.0,1,O=C1C=CCCC1,katritzky07
+387,387,2-ethyl-1-hexanamine,323.0,1,CCCCC(CC)CN,katritzky07
+402,402,2-methyl-1-butanethiol,292.0,1,CCC(C)CS,katritzky07
+403,403,2-methyl-1-heptene,283.0,1,C=C(C)CCCCC,katritzky07
+424,424,2-methylthiophene,280.0,1,Cc1cccs1,katritzky07
+425,425,2-nonanone,342.0,1,CCCCCCCC(C)=O,katritzky07
+429,429,2-octene,287.0,1,CC=CCCCCC,katritzky07
+434,434,2-pentyne,243.0,1,CC#CCC,katritzky07
+443,443,2-undecanol,380.0,1,CCCCCCCCCC(C)O,katritzky07
+444,444,2-undecanone,362.0,1,CCCCCCCCCC(C)=O,katritzky07
+468,468,3-methylcyclohexanol,335.0,1,CC1CCCC(O)C1,katritzky07
+474,474,3-octanone,326.0,1,CCCCCC(=O)CC,katritzky07
+481,481,4-heptanone,322.0,1,CCCC(=O)CCC,katritzky07
+482,482,"4-methyl-1,3-pentadiene",239.0,1,C=CC=C(C)C,katritzky07
+483,483,4-methyl-1-pentanol,324.0,1,CC(C)CCCO,katritzky07
+486,486,4-methylnonane,311.0,1,CCCCCC(C)CCC,katritzky07
+488,488,4-methylstyrene,318.0,1,C=Cc1ccc(C)cc1,katritzky07
+491,491,4-vinyl-1-cyclohexene,289.0,1,C=CC1CC=CCC1,katritzky07
+495,495,5-hexen-1-ol,320.0,1,C=CCCCCO,katritzky07
+505,505,acetonitrile,286.0,1,CC#N,katritzky07
+509,509,benzenemethanethiol,343.0,1,SCc1ccccc1,katritzky07
+511,511,benzofuran,329.0,1,c1ccc2occc2c1,katritzky07
+514,514,benzyl bromide,352.0,1,BrCc1ccccc1,katritzky07
+516,516,benzyl cyanide,374.0,1,N#CCc1ccccc1,katritzky07
+535,535,chlorocyclohexane,305.0,1,ClC1CCCCC1,katritzky07
+536,536,chlorocyclopentane,288.0,1,ClC1CCCC1,katritzky07
+540,540,cyclobutane,208.0,1,C1CCC1,katritzky07
+548,548,cyclohexanemethylamine,316.0,1,NCC1CCCCC1,katritzky07
+550,550,cyclohexene oxide,297.0,1,C1CCC2OC2C1,katritzky07
+559,559,cyclopropylamine,248.0,1,NC1CC1,katritzky07
+561,561,dibutyl disulfide,386.0,1,CCCCSSCCCC,katritzky07
+575,575,diethylene glycol dibutyl ether,390.0,1,CCCCOCCOCCOCCCC,katritzky07
+594,594,di-tert-butyl disulfide,340.0,1,CC(C)(C)SSC(C)(C)C,katritzky07
+597,597,ethanal,234.0,1,CC=O,katritzky07
+599,599,ethanethiol,225.0,1,CCS,katritzky07
+611,611,formic acid,342.0,1,O=CO,katritzky07
+617,617,heptanal,314.0,1,CCCCCCC=O,katritzky07
+618,618,heptanenitrile,331.0,1,CCCCCCC#N,katritzky07
+620,620,heptylbenzene,368.0,1,CCCCCCCc1ccccc1,katritzky07
+632,632,m-dichlorobenzene,336.0,1,Clc1cccc(Cl)c1,katritzky07
+640,640,methyl formate,254.0,1,COC=O,katritzky07
+645,645,methyl methacrylate,283.0,1,C=C(C)C(=O)OC,katritzky07
+665,665,N-ethylisopropylamine,289.0,1,CCNC(C)C,katritzky07
+670,670,N-methyl-2-propanamine,242.0,1,CNC(C)C,katritzky07
+671,671,N-methylaniline,353.0,1,CNc1ccccc1,katritzky07
+677,677,n-octylbenzene,380.0,1,CCCCCCCCc1ccccc1,katritzky07
+684,684,octanoyl chloride,355.0,1,CCCCCCCC(=O)Cl,katritzky07
+685,685,octylamine,333.0,1,CCCCCCCCN,katritzky07
+694,694,phthalic anhydride,425.0,1,O=C1OC(=O)c2ccccc21,katritzky07
+695,695,pinacolone,278.0,1,CC(=O)C(C)(C)C,katritzky07
+700,700,propanoyl chloride,285.0,1,CCC(=O)Cl,katritzky07
+704,704,propyl butyrate,310.0,1,CCCOC(=O)CCC,katritzky07
+717,717,t-butyl methyl sulfide,270.0,1,CSC(C)(C)C,katritzky07
+719,719,t-butyl propionate,293.0,1,CCC(=O)OC(C)(C)C,katritzky07
+731,731,tridecane,375.0,1,CCCCCCCCCCCCC,katritzky07
+738,738,undecylbenzene,417.0,1,CCCCCCCCCCCc1ccccc1,katritzky07
+93,93,ethyl butyrate,292.0,1,CCCC(=O)OCC,katritzky07
+245,245,o-xylene,305.0,1,Cc1ccccc1C,katritzky07
+210,210,"1,3-cyclohexadiene",299.0,1,C1=CCCC=C1,katritzky07
+224,224,butyl ethyl ether,268.0,1,CCCCOCC,katritzky07
+74,74,2-picoline,301.0,1,Cc1ccccn1,katritzky07
+23,23,butyraldehyde,267.0,1,CCCC=O,katritzky07
+22,22,n-butyronitrile,289.0,1,CCCC#N,katritzky07
+141,141,di-n-butyl ether,298.0,1,CCCCOCCCC,katritzky07
+67,67,"1,2-dichlorobenzene",340.0,1,Clc1ccccc1Cl,katritzky07
+251,251,"1,4-diethylbenzene",329.0,1,CCc1ccc(CC)cc1,katritzky07
+52,52,valeraldehyde,285.0,1,CCCCC=O,katritzky07
+196,196,tert-butylamine,264.0,1,CC(C)(C)N,katritzky07

@@ -1,0 +1,36 @@
+/srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+WARNING: Logging before flag parsing goes to stderr.
+W0729 16:26:59.426659 139856278509376 deprecation_wrapper.py:119] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/deepchem/models/tensorgraph/tensor_graph.py:715: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+W0729 16:26:59.686508 139856278509376 deprecation.py:506] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/deepchem/models/tensorgraph/model_ops.py:261: calling RandomUniform.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+W0729 16:26:59.701032 139856278509376 deprecation.py:506] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/deepchem/models/tensorgraph/model_ops.py:450: calling Constant.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+W0729 16:26:59.738850 139856278509376 deprecation_wrapper.py:119] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/tensorflow/python/autograph/converters/directives.py:117: The name tf.nn.xw_plus_b is deprecated. Please use tf.compat.v1.nn.xw_plus_b instead.
+
+W0729 16:26:59.740920 139856278509376 deprecation_wrapper.py:119] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/tensorflow/python/autograph/converters/directives.py:117: The name tf.segment_sum is deprecated. Please use tf.math.segment_sum instead.
+
+W0729 16:27:00.948530 139856278509376 deprecation_wrapper.py:119] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/deepchem/models/tensorgraph/tensor_graph.py:728: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-07-29 16:27:00.950026: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2019-07-29 16:27:00.970266: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2300025000 Hz
+2019-07-29 16:27:00.971498: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55d1f03b2510 executing computations on platform Host. Devices:
+2019-07-29 16:27:00.971874: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): <undefined>, <undefined>
+W0729 16:27:00.976965 139856278509376 deprecation_wrapper.py:119] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/deepchem/models/tensorgraph/optimizers.py:76: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+W0729 16:27:01.934366 139856278509376 deprecation_wrapper.py:119] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/deepchem/models/tensorgraph/tensor_graph.py:1013: The name tf.get_collection is deprecated. Please use tf.compat.v1.get_collection instead.
+
+W0729 16:27:01.935364 139856278509376 deprecation_wrapper.py:119] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/deepchem/models/tensorgraph/tensor_graph.py:1013: The name tf.GraphKeys is deprecated. Please use tf.compat.v1.GraphKeys instead.
+
+2019-07-29 16:27:02.085727: W tensorflow/compiler/jit/mark_for_compilation_pass.cc:1412] (One-time warning): Not using XLA:CPU for cluster because envvar TF_XLA_FLAGS=--tf_xla_cpu_global_jit was not set.  If you want XLA:CPU, either set that envvar, or use experimental_jit_scope to enable XLA:CPU.  To confirm that XLA is active, pass --vmodule=xla_compilation_cache=1 (as a proper command-line flag, not via TF_XLA_FLAGS) or set the envvar XLA_FLAGS=--xla_hlo_profile.
+W0729 16:27:02.107151 139856278509376 deprecation_wrapper.py:119] From /srv/home/nkrakauer/anaconda3/envs/deepchem/lib/python3.6/site-packages/deepchem/models/tensorgraph/tensor_graph.py:749: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-07-29 16:27:02.399665: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 0, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-29 16:27:04.428846: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 1, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-29 16:27:04.510023: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:502] remapper failed: Invalid argument: The graph couldn't be sorted in topological order.
+2019-07-29 16:27:04.515197: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:502] arithmetic_optimizer failed: Invalid argument: The graph couldn't be sorted in topological order.
+2019-07-29 16:27:04.520351: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 0, topological sort failed with message: The graph couldn't be sorted in topological order.
+2019-07-29 16:27:04.529458: E tensorflow/core/grappler/optimizers/dependency_optimizer.cc:697] Iteration = 1, topological sort failed with message: The graph couldn't be sorted in topological order.

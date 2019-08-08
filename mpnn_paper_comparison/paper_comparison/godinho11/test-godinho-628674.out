@@ -1,0 +1,555 @@
+About to load
+|||||||||||||||||||||Loading godinho11.csv|||||||||||||||||||||||
+||||||||||||||||Directory dataset_info Created||||||||||||||||
+=====================================================
+Original_dataset info:
+-----------------------------------------------------
+Dataset length is: 75
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [75]
+-----------------------------------------------------
+Mean: 334.64133333333336
+-----------------------------------------------------
+Std: 18.865613601910134
+=====================================================
+
+About to split
+=====================================================
+Full_dataset info:
+-----------------------------------------------------
+Dataset length is: 75
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [75]
+-----------------------------------------------------
+Mean: 334.64133333333336
+-----------------------------------------------------
+Std: 18.865613601910134
+=====================================================
+
+About to simulate
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.119 s
+TIMING: dataset construction took 0.146 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from test_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.014 s
+TIMING: dataset construction took 0.029 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.022 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.007 s
+Loading dataset from disk.
+computed_metrics: [2.093610608206895]
+computed_metrics: [1.7162042362929313]
+computed_metrics: [0.9737903895266403]
+computed_metrics: [0.2553562355401999]
+computed_metrics: [0.999906550497593]
+=====================================================
+CV_1_Train info:
+-----------------------------------------------------
+Dataset length is: 67
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [67]
+-----------------------------------------------------
+Mean: 335.17313432835823
+-----------------------------------------------------
+Std: 19.70808618915744
+=====================================================
+
+=====================================================
+CV_1_Test info:
+-----------------------------------------------------
+Dataset length is: 8
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [8]
+-----------------------------------------------------
+Mean: 330.1875
+-----------------------------------------------------
+Std: 8.658841476449705
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.086 s
+TIMING: dataset construction took 0.105 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from test_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.011 s
+TIMING: dataset construction took 0.021 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.015 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.006 s
+Loading dataset from disk.
+computed_metrics: [4.1769265950791095]
+computed_metrics: [2.833154425981782]
+computed_metrics: [0.9681733982623083]
+computed_metrics: [0.3370153423517517]
+computed_metrics: [0.9998304851969971]
+=====================================================
+CV_2_Train info:
+-----------------------------------------------------
+Dataset length is: 67
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [67]
+-----------------------------------------------------
+Mean: 334.2164179104478
+-----------------------------------------------------
+Std: 18.89924318682698
+=====================================================
+
+=====================================================
+CV_2_Test info:
+-----------------------------------------------------
+Dataset length is: 8
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [8]
+-----------------------------------------------------
+Mean: 338.2
+-----------------------------------------------------
+Std: 19.457132368363034
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.094 s
+TIMING: dataset construction took 0.114 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from test_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.011 s
+TIMING: dataset construction took 0.023 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.018 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.007 s
+Loading dataset from disk.
+computed_metrics: [2.2983945559488177]
+computed_metrics: [1.9493503884707835]
+computed_metrics: [0.9878758678904541]
+computed_metrics: [0.2103124224773706]
+computed_metrics: [0.9998774276321373]
+=====================================================
+CV_3_Train info:
+-----------------------------------------------------
+Dataset length is: 67
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [67]
+-----------------------------------------------------
+Mean: 335.22388059701495
+-----------------------------------------------------
+Std: 18.614071652937152
+=====================================================
+
+=====================================================
+CV_3_Test info:
+-----------------------------------------------------
+Dataset length is: 8
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [8]
+-----------------------------------------------------
+Mean: 329.76250000000005
+-----------------------------------------------------
+Std: 21.56835893485774
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.093 s
+TIMING: dataset construction took 0.113 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from test_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.012 s
+TIMING: dataset construction took 0.024 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.019 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.007 s
+Loading dataset from disk.
+computed_metrics: [3.173600061004917]
+computed_metrics: [2.6306380225548267]
+computed_metrics: [0.987807220735847]
+computed_metrics: [0.3837598488446769]
+computed_metrics: [0.9999308776367416]
+=====================================================
+CV_4_Train info:
+-----------------------------------------------------
+Dataset length is: 67
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [67]
+-----------------------------------------------------
+Mean: 334.0791044776119
+-----------------------------------------------------
+Std: 18.59407316221076
+=====================================================
+
+=====================================================
+CV_4_Test info:
+-----------------------------------------------------
+Dataset length is: 8
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [8]
+-----------------------------------------------------
+Mean: 339.35
+-----------------------------------------------------
+Std: 21.778364099655025
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.092 s
+TIMING: dataset construction took 0.112 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from test_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.012 s
+TIMING: dataset construction took 0.024 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.018 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.007 s
+Loading dataset from disk.
+computed_metrics: [2.075519574999488]
+computed_metrics: [1.7608720929430035]
+computed_metrics: [0.9959946293908202]
+computed_metrics: [0.0980868592386032]
+computed_metrics: [0.999988604119942]
+=====================================================
+CV_5_Train info:
+-----------------------------------------------------
+Dataset length is: 67
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [67]
+-----------------------------------------------------
+Mean: 334.2686567164179
+-----------------------------------------------------
+Std: 18.01359090406904
+=====================================================
+
+=====================================================
+CV_5_Test info:
+-----------------------------------------------------
+Dataset length is: 8
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [8]
+-----------------------------------------------------
+Mean: 337.7625
+-----------------------------------------------------
+Std: 26.278450568587832
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.095 s
+TIMING: dataset construction took 0.115 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from test_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.011 s
+TIMING: dataset construction took 0.023 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.018 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.007 s
+Loading dataset from disk.
+computed_metrics: [4.221946632766039]
+computed_metrics: [2.866962153946385]
+computed_metrics: [0.7795873260789759]
+computed_metrics: [1.0903421814066971]
+computed_metrics: [0.9984899397364712]
+=====================================================
+CV_6_Train info:
+-----------------------------------------------------
+Dataset length is: 68
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [68]
+-----------------------------------------------------
+Mean: 334.38676470588234
+-----------------------------------------------------
+Std: 19.671123653583106
+=====================================================
+
+=====================================================
+CV_6_Test info:
+-----------------------------------------------------
+Dataset length is: 7
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [7]
+-----------------------------------------------------
+Mean: 337.11428571428576
+-----------------------------------------------------
+Std: 7.792823316237535
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.096 s
+TIMING: dataset construction took 0.115 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from test_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.010 s
+TIMING: dataset construction took 0.020 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.019 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.007 s
+Loading dataset from disk.
+computed_metrics: [2.3317712953996987]
+computed_metrics: [1.7987722610884833]
+computed_metrics: [0.968883699137811]
+computed_metrics: [0.29130299716499786]
+computed_metrics: [0.9999435002422875]
+=====================================================
+CV_7_Train info:
+-----------------------------------------------------
+Dataset length is: 68
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [68]
+-----------------------------------------------------
+Mean: 335.5323529411765
+-----------------------------------------------------
+Std: 19.336304429955113
+=====================================================
+
+=====================================================
+CV_7_Test info:
+-----------------------------------------------------
+Dataset length is: 7
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [7]
+-----------------------------------------------------
+Mean: 325.9857142857143
+-----------------------------------------------------
+Std: 10.86438041973687
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.095 s
+TIMING: dataset construction took 0.115 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from test_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.011 s
+TIMING: dataset construction took 0.023 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.018 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.007 s
+Loading dataset from disk.
+computed_metrics: [3.1041024527023455]
+computed_metrics: [2.7491272695104954]
+computed_metrics: [0.9811249776349465]
+computed_metrics: [0.20540473007737023]
+computed_metrics: [0.9999451181925325]
+=====================================================
+CV_8_Train info:
+-----------------------------------------------------
+Dataset length is: 68
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [68]
+-----------------------------------------------------
+Mean: 334.0573529411764
+-----------------------------------------------------
+Std: 18.635805019086092
+=====================================================
+
+=====================================================
+CV_8_Test info:
+-----------------------------------------------------
+Dataset length is: 7
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [7]
+-----------------------------------------------------
+Mean: 340.3142857142857
+-----------------------------------------------------
+Std: 21.68074634104559
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.094 s
+TIMING: dataset construction took 0.114 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from test_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.010 s
+TIMING: dataset construction took 0.022 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.019 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.007 s
+Loading dataset from disk.
+computed_metrics: [4.883972860541564]
+computed_metrics: [4.056450170377096]
+computed_metrics: [0.9934947707404241]
+computed_metrics: [3.298814485768917]
+computed_metrics: [0.9941813946926669]
+=====================================================
+CV_9_Train info:
+-----------------------------------------------------
+Dataset length is: 68
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [68]
+-----------------------------------------------------
+Mean: 334.5794117647059
+-----------------------------------------------------
+Std: 19.048857519104473
+=====================================================
+
+=====================================================
+CV_9_Test info:
+-----------------------------------------------------
+Dataset length is: 7
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [7]
+-----------------------------------------------------
+Mean: 335.24285714285713
+-----------------------------------------------------
+Std: 18.36253950691072
+=====================================================
+
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from train_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.094 s
+TIMING: dataset construction took 0.114 s
+Loading dataset from disk.
+Loading raw samples now.
+shard_size: 8192
+About to start loading CSV from test_set.csv
+Loading shard 1 of size 8192.
+Featurizing sample 0
+TIMING: featurizing shard 0 took 0.010 s
+TIMING: dataset construction took 0.022 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.019 s
+Loading dataset from disk.
+TIMING: dataset construction took 0.007 s
+Loading dataset from disk.
+computed_metrics: [4.334660754781839]
+computed_metrics: [3.3089947795162]
+computed_metrics: [0.9914039341073277]
+computed_metrics: [1.5322522251437793]
+computed_metrics: [0.9988891381721428]
+=====================================================
+CV_10_Train info:
+-----------------------------------------------------
+Dataset length is: 68
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [68]
+-----------------------------------------------------
+Mean: 334.8926470588235
+-----------------------------------------------------
+Std: 18.119720568637742
+=====================================================
+
+=====================================================
+CV_10_Test info:
+-----------------------------------------------------
+Dataset length is: 7
+-----------------------------------------------------
+Dataset sources info: 
+  Source name:godinho11, Number of data: [7]
+-----------------------------------------------------
+Mean: 332.19999999999993
+-----------------------------------------------------
+Std: 26.751012441899594
+=====================================================
+
+AAD = 0.7754501873536019
+AAD_list = [0.5190368192350043, 0.8137118297133761, 0.5979961696822514, 0.7949222337927997, 0.5099605028451011, 0.8646922051833803, 0.5554287144433265, 0.8110681757654926, 1.2495683392690526, 1.0381168836062342]
+RMSE = 3.269450539143071
+RMSE_list = [2.093610608206895, 4.1769265950791095, 2.2983945559488177, 3.173600061004917, 2.075519574999488, 4.221946632766039, 2.3317712953996987, 3.1041024527023455, 4.883972860541564, 4.334660754781839]
+MAE = 2.567052580068199
+MAE_list = [1.7162042362929313, 2.833154425981782, 1.9493503884707835, 2.6306380225548267, 1.7608720929430035, 2.866962153946385, 1.7987722610884833, 2.7491272695104954, 4.056450170377096, 3.3089947795162]
+R2 = 0.9628136213505556
+R2_list = [0.9737903895266403, 0.9681733982623083, 0.9878758678904541, 0.987807220735847, 0.9959946293908202, 0.7795873260789759, 0.968883699137811, 0.9811249776349465, 0.9934947707404241, 0.9914039341073277]
+train = (0.7702647328014363, 0.9990983036119511)
+About to make parity plots
+||||||||||||||||Directory parity_plot Created||||||||||||||||
+About to make residual plot
+||||||||||||||||Directory residual_plot Created||||||||||||||||
+About to plot full data
