@@ -1,4 +1,0 @@
-  File "/srv/home/nkrakauer/moleprop/paper_comparison/chen14/optimization/opt.py", line 41
-    if i > 2 && i < 5:
-              ^
-SyntaxError: invalid syntax
